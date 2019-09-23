@@ -65,9 +65,13 @@ A DAO conforming to the Virgo Protocols have the following components:
 * Court
 * Treasury
 * Directory
-  - "/bylaws"
-  - "/members"
-  - "/mission"
+  - "/" - information about the DAO.
+  - "/laws" - immutable rules of the DAO, such as who can change the bylaws.
+  - "/bylaws" - human-interpreted laws of the DAO and members.
+  - "/committees" - (generally more restricted) DAOs associated by name.
+  - "/members" - privacy preserving information about real persons; for UDV
+    citizenship, some information must be public, such as ones full name.
+  - "/mission" - the mission of the DAO.
 
 ### Virgo Protocol: Decision Making
 
@@ -138,5 +142,11 @@ Protocol (IDAO/DAP).
 
 # Plan
 
+* Write More
+* Construct Operations Team
 * Constitutional Convention
+* Define First Milestone
+* Define up to Last Milestone
+* Calculatee Responsible Funding Limitations
+* Propose Multiple Funding Models
 * TODO
