@@ -140,6 +140,11 @@ vote.
 The UDV Congress and the member State DAOs speak the InterDAO Directory Access
 Protocol (IDAO/DAP). 
 
+# Other
+
+* [funding](/FUNDING.md)
+* [unsorted](/UNSORTED.md)
+
 # Plan
 
 * Write More
