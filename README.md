@@ -60,40 +60,55 @@ interoperability.
 
 A DAO conforming to the Virgo Protocols have the following components:
 
-* Executive
-* Board
-* Court
-* Treasury
+* Executive (optional)
+* Board (optional)
+* Owners
+* Court (optional)
+* Treasury (optional)
 * Directory
   - "/" - information about the DAO.
+  - "/booard" - information about the board.
+  - "/board/spec" - specification for the board.
+  - "/executive" - information about the executive(s).
   - "/laws" - immutable rules of the DAO, such as who can change the bylaws.
   - "/bylaws" - human-interpreted laws of the DAO and members.
   - "/committees" - (generally more restricted) DAOs associated by name.
-  - "/members" - privacy preserving information about real persons; for UDV
-    citizenship, some information must be public, such as ones full name.
+  - "/owners" - privacy preserving information about real persons or entities that have collective control over this DAO.
   - "/mission" - the mission of the DAO.
+  
+Owners are natural persons or entities (such as a corporation or a DAO like the Cosmos Hub),
+and ownership can be weighted differently or equally (democratic).
+The Board and Executive are also composed of natural persons or entities.
+Members of the Board or Executive each get 1 vote in their respective groups. 
+
+The Executive is composed of 1, 2, or 3 members.
+The Board and Owners may be composed of any number of members.
+
+Membership of the Board and Executive must conform to the Board Spec which
+determines the number of seats and composition of each.
+
+In the UDV (which is itself a DAO), the real-person owners across the DAOs and sub-DAOs are de-duplicated according to the laws of UDV Citizenship, and are collectively called the Citizens of the UDV.
 
 ### Virgo Protocol: Decision Making
 
-The Executive is 1, 2, or 3 member persons from the Board.  Executives and
-Board members are natural persons.
-
-Membership of the Board and Executive must conform to the Board Spec which
-determines the composition and number of seats.
+Decisions are made by the passage of Proposals.
 
 In principle, the Executive makes day-to-day decisions, which can be overridden
-by the Board based on a time-delay and circuit breaker mechanism on Proposals.
+by the Board based on time restrictions and veto mechanisms.  Likewise, the Owners
+can override the Executive and Board.  Generally, the Executive and Board
+if present serve the Owners of the DAO.
 
-Board membership updates are passed by the passage of Proposals.
+Board and Executive membership updates are also decided by the passage of Proposals.
 
 The Court (sometimes a reference to an external DAO) has veto power over the
 passage of Proposals.
 
-In some (but not all) DAOs, the proposal process and/or the membership of the
-Court is partially controlled by a liquid and direct democracy voting system of
-a broader body of members.  For example, the UDV Supreme Court as well as the
-UDV proposal process is partially controlled by the deduplicated unique members
-of the UDV.
+The proposal process and/or the Court (or the membership of the Court)
+are partially controlled by a liquid and direct democracy voting system of
+the Owners.
+
+The UDV has Citizens instead of Owners.  The UDV Supreme Court as well as the
+UDV proposal process are partially controlled by the Citizens of the UDV.
 
 ## UDV Core Members
 
