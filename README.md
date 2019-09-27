@@ -66,15 +66,13 @@ A DAO conforming to the Virgo Protocols have the following components:
 * Court (optional)
 * Treasury (optional)
 * Directory
-  - "/" - information about the DAO.
-  - "/booard" - information about the board.
-  - "/board/spec" - specification for the board.
-  - "/executive" - information about the executive(s).
-  - "/laws" - immutable rules of the DAO, such as who can change the bylaws.
-  - "/bylaws" - human-interpreted laws of the DAO and members.
-  - "/committees" - (generally more restricted) DAOs associated by name.
-  - "/owners" - privacy preserving information about real persons or entities that have collective control over this DAO.
-  - "/mission" - the mission of the DAO.
+  - "/README" - information about the DAO.
+  - "/BOARD" - information about the board & executive(s).
+  - "/LAWS" - specification of DAO composition, such as the composition of the Board (if any), or how the BYLAWS are updated.
+  - "/BYLAWS" - rules that apply to the board members, executives, and owners, and are interpreted by the court.
+  - "/COMMITTEES" - lightweight DAOs associated by name.
+  - "/OWNERS" - privacy preserving information about real persons or entities that have collective control over this DAO.
+  - "/MISSION" - the mission of the DAO.
   
 Owners are natural persons or entities (such as a corporation or a DAO like the Cosmos Hub),
 and ownership can be weighted differently or equally (democratic).
@@ -87,7 +85,9 @@ The Board and Owners may be composed of any number of members.
 Membership of the Board and Executive must conform to the Board Spec which
 determines the number of seats and composition of each.
 
-In the UDV (which is itself a DAO), the real-person owners across the DAOs and sub-DAOs are de-duplicated according to the laws of UDV Citizenship, and are collectively called the Citizens of the UDV.
+In the UDV (which is itself a DAO), the real-person owners across the DAOs and
+sub-DAOs are de-duplicated according to the laws of UDV Citizenship, and are
+collectively called the Citizens of the UDV.
 
 ### Virgo Protocol: Decision Making
 
