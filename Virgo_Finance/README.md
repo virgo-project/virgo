@@ -1,4 +1,4 @@
-#`Mission
+# Mission
 
 See MISSION.md
 
