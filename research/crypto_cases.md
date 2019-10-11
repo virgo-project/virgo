@@ -13,3 +13,7 @@ Here participants have private keys, communities generally share equity in a tok
 [Genesis, the first Community DAO](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539)
 
 
+[Kleros](https://twitter.com/Kleros_io)
+
+
+
