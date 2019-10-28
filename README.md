@@ -53,7 +53,7 @@ and at peace with the laws of the universe.
 While Capitalism may appear to be an unstoppable force,
 the fact of the matter is,
 capital and private property are constructs of our collective hallucination.
-It is people who enforce property laws.
+It is we the people who enforce property laws.
 Our minds are open enough to consider different ways of being.
 
 And we must.
@@ -63,8 +63,8 @@ and become discarded,
 as the prophet James Cameron had forewarned us about,
 
 We must each use our voices,
-that we have always had but never had the opoertunity to use,
-and sing out loud with a thunder, 
+that we have always had but never had the opportunity to use,
+and sing out loud with a thunder
 that pearces through the fabric of this constructed hallucination,
 and change the tune of our reality,
 for the progression of this song called humanity.
@@ -119,7 +119,7 @@ of democracy, security, and efficiency,
 of open mindedness and dialog,
 of cooperation,
 if we truly commit to our core values,
-if we organize these ecommunities to be decentralized and autonomous yet connected,
+if we organize these communities to be decentralized and autonomous yet connected,
 
 Then from the votes of the people,
 with our hands and feet lead by our reason,
@@ -129,8 +129,10 @@ with radical transparency,
 the right communities will emerge and prosper.
 
 When moon?
-No,
+No, that is just a stepping stone.
 When Virgo.
+If starting is half the journey,
+we would be half-way when,
 
 When the software that powers our social networking and communications are completely
 open source and free, with privacy well integrated and enabled by default,
