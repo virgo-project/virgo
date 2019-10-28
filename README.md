@@ -1,5 +1,3 @@
-# Manifesto
-
 # Virgo Manifesto
 
 We are surrounded by fire.
