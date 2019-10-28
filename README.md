@@ -404,8 +404,9 @@ Each DAOs is responsible for maintaining the privacy of its members, if any.
 The UDV DAO Congress is responsible for ensuring that one natural person gets one
 vote.
 
-# Other
+# Resources
 
+* [forums](https://forum.virgo.org)
 * [funding](/FUNDING.md)
 * [unsorted](/UNSORTED.md)
 * [glossary](/GLOSSARY.md)
