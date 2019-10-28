@@ -1,5 +1,210 @@
-# What is Virgo?
+# Manifesto
 
+# Virgo Manifesto
+
+We are surrounded by fire.
+
+When you follow the news and reports,
+you find that there is little hope for our future.
+and the future of our children.
+
+The system that we have inherited and cocreated
+has become unsustainable.
+
+Though our potential is unlimited in the long run,
+we have forgotten how to live in harmony.
+We have been robbed ourselves,
+and still we are ourselves stealing from
+the prosperity of future generations.
+
+For the sake of consumption powered by capitalism.
+
+Capitalism is combustion.
+One's superior ability to accumulate capital
+begets more capital exponentially.
+Capitalism is the most magnificent fire that is engulfing this planet today.
+
+Power begets power,
+oil begets oil,
+and when left unchecked,
+capitalism extinguishes itself.
+
+(do we really need to be eating cows?)
+
+When the power of combustion is harnessed in a macro-economic design
+to bring sustenance and harmony and balance
+to this ecosystem which we all reside,
+then we may have a chance of surviving,
+and fulfilling our collective destiny.
+
+That is,
+to harness the power of our sun,
+to reach out to the stars,
+to spread out and multiply,
+the joy of our being.
+
+As Carl Sagan said,
+"We're made of star stuff.
+We are a way for the cosmos to know itself"
+
+And this star dust just wants to
+finally feel at home,
+and at peace and in love with ourselves,
+and at peace with the laws of the universe.
+
+While Capitalism may appear to be an unstoppable force,
+the fact of the matter is,
+capital and private property are constructs of our collective hallucination.
+It is people who enforce property laws.
+Our minds are open enough to consider different ways of being.
+
+And we must.
+Unless we want to find ourselves completely surrounded
+by the machines of private property,
+and become discarded,
+as the prophet James Cameron had forewarned us about,
+
+We must each use our voices,
+that we have always had but never had the opoertunity to use,
+and sing out loud with a thunder, 
+that pearces through the fabric of this constructed hallucination,
+and change the tune of our reality,
+for the progression of this song called humanity.
+
+Today we are given a golden opportunity
+to harness the gift of computing in our hands,
+and communication at the speed of light,
+to reimagine where we as a collective society
+decide to devote our collective focus and power.
+
+And by the nature of free voluntary trade using our tools,
+we can make this transition entirely peaceful,
+to synthesize a new beginning
+that transcends the false duality of capitalism vs socialism.
+
+Under no authority,
+and with no preconceived notion of nations,
+and the way we have been considering borders and citizenship.
+
+Time is in short supply.
+We are dealing with an apocolyptic set of unfolding tragedies.
+A deteriorating environment,
+worsening global warming and climate change,
+soon to be causing the loss of power and electricty, and food shortages,
+the worsening ecnonomy,
+through the popping of a global pyramid scheme,
+responsible for the exploitation of people,
+and our natural resources.
+
+(what color is the air?)
+
+The racket of war,
+for oil and power,
+already disintegrating contentental unions.
+
+And in the greatest superpowers we see,
+the tolerance and acceptance of darkness,
+of opacity and unaccountability,
+and decay into tyrrany.
+
+We must not compromise on our core values.
+Of transparency, accountability, and,
+not just of sustainablity, but of regenerative environmental integration,
+(for we are tenders of the earth),
+and of democracy and equality,
+and of open mindedness.
+
+By fully committing to our common core values,
+of transparency, accountability, environmental stewardship.
+of providing voice and exit,
+of democracy, security, and efficiency,
+of open mindedness and dialog,
+of cooperation,
+if we truly commit to our core values,
+if we organize these ecommunities to be decentralized and autonomous yet connected,
+
+Then from the votes of the people,
+with our hands and feet lead by our reason,
+with our attention and associations,
+with our words and allegiences,
+with radical transparency,
+the right communities will emerge and prosper.
+
+When moon?
+No,
+When Virgo.
+
+When the software that powers our social networking and communications are completely
+open source and free, with privacy well integrated and enabled by default,
+and there exists not one monopoly or an oligopoly but a vast federation of networks
+speaking a common protocol for interoperability.
+
+When the protocols are well designed enough for multiple implementations to compete
+to provide constructive dialog & information discovery, 
+and also designed to enable our long term happiness and well-being.
+
+When our mobile and desktop devices are completely open and free designs,
+such that anyone could manufacture them,
+and that we can know with near certainty that our devices in our hands
+are secure and not compromised by any authority.
+
+When the world has become so saturated with open source,
+when it becomes the norm,
+where genuine contributions are rewarded automagically.
+
+When our hardware devices are optimized not only for usabiiity,
+but also for waste reduction and reusability via modularity,
+and to take into account the full cycle of manufacturing to disposal in the cost of things,
+rather than designed for profits from consumerism.
+
+When our social services and public agencies are not held hostage by executive incompetence,
+but are comprised of a network of interoperating decentralized autonomous organizations.
+
+When we have trust in our institutions by virtue of the openness and transparency and accountability.
+
+When our representatives are not merely talking heads on censored media channels,
+but are people that we know through our exposure,
+accounting for different areas of expertise,
+
+When we synthesize these open and free software, hardware, protocols, procedures,
+and data to make intelligent collective decisions for resource management,
+and to enable radically transparent operation which is necessary for accountability,
+but also to facilitate constructive dialog.
+
+When it all comes together to enable human coordination at all scales,
+from social groups to corporations and coops to international communities
+united under a common mission, to states and munical governments with
+a public engaged in democracy,
+
+When all the people of the earth feel that their voices are heard and that it matters,
+
+When our internet infrastructure becomes sufficiently open and resilient,
+when censorship becomes impossible due to the nature of an incentivized 
+networking protocol owned and operated by each local community.
+
+When our financial system is deisgned to give power to the people and envirionment 
+it should serve, rather than bow to the hollow,
+
+When no authority has the ability to dictate which monetary system one can use by decree,
+but rather when we the buyers and sellers get to vote with our crypto wallets,
+what causes to support,
+such as via the adoptionn and holding of a local currency,
+where inflationary issuances and voluntary tax revenues are used to fund for common infrastructure development; 
+not by virtue of legislation, but goodwill and social cohesion.
+
+When our financial system is designed to heal the people and the planet on which they depend,
+rather than incentivize the exploitation of it.
+
+When we are given the opportunity to master
+any aspect of the technological infrastructure on which our livelihoods depend,
+
+When we no longer need to expend our time and livelihood accounting for our taxes,
+
+When all of these new systems work together to heal the planet and our sense of greater community
+bound by love not hate and fear.
+
+
+# What is Virgo?
 
 ## Virgo is an IDEA
 
