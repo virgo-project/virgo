@@ -3,7 +3,7 @@
 We are surrounded by fire.
 
 When you follow the news and reports,
-you find that there is little hope for our future.
+you find that there is little hope for our future
 and the future of our children.
 
 The system that we have inherited and co-created
@@ -50,7 +50,7 @@ finally feel at home,
 and at peace and in love with ourselves,
 and at peace with the laws of the universe.
 
-While Capitalism may appear to be an unstoppable force,
+While capitalism may appear to be an unstoppable force,
 the fact of the matter is,
 capital and private property are constructs of our collective hallucination.
 It is we the people who enforce property laws.
@@ -113,7 +113,7 @@ and of democracy and equality,
 and of open mindedness.
 
 By fully committing to our common core values,
-of transparency, accountability, environmental stewardship.
+of transparency, accountability, and environmental stewardship,
 of providing voice and exit,
 of democracy, security, and efficiency,
 of open mindedness and dialog,
