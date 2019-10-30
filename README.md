@@ -3,10 +3,10 @@
 We are surrounded by fire.
 
 When you follow the news and reports,
-you find that there is little hope for our future.
+you find that there is little hope for our future
 and the future of our children.
 
-The system that we have inherited and cocreated
+The system that we have inherited and co-created
 has become unsustainable.
 
 Though our potential is unlimited in the long run,
@@ -45,12 +45,12 @@ As Carl Sagan said,
 "We're made of star stuff.
 We are a way for the cosmos to know itself"
 
-And this star dust just wants to
+And this stardust just wants to
 finally feel at home,
 and at peace and in love with ourselves,
 and at peace with the laws of the universe.
 
-While Capitalism may appear to be an unstoppable force,
+While capitalism may appear to be an unstoppable force,
 the fact of the matter is,
 capital and private property are constructs of our collective hallucination.
 It is we the people who enforce property laws.
@@ -65,7 +65,7 @@ as the prophet James Cameron had forewarned us about,
 We must each use our voices,
 that we have always had but never had the opportunity to use,
 and sing out loud with a thunder
-that pearces through the fabric of this constructed hallucination,
+that pierces through the fabric of this constructed hallucination,
 and change the tune of our reality,
 for the progression of this song called humanity.
 
@@ -85,11 +85,11 @@ and with no preconceived notion of nations,
 and the way we have been considering borders and citizenship.
 
 Time is in short supply.
-We are dealing with an apocolyptic set of unfolding tragedies.
+We are dealing with an apocalyptic set of unfolding tragedies.
 A deteriorating environment,
 worsening global warming and climate change,
-soon to be causing the loss of power and electricty, and food shortages,
-the worsening ecnonomy,
+soon to be causing the loss of power and electricity, and food shortages,
+the worsening economy,
 through the popping of a global pyramid scheme,
 responsible for the exploitation of people,
 and our natural resources.
@@ -103,17 +103,17 @@ already disintegrating contentental unions.
 And in the greatest superpowers we see,
 the tolerance and acceptance of darkness,
 of opacity and unaccountability,
-and decay into tyrrany.
+and decay into tyranny.
 
 We must not compromise on our core values.
 Of transparency, accountability, and,
-not just of sustainablity, but of regenerative environmental integration,
+not just of sustainability, but of regenerative environmental integration,
 (for we are tenders of the earth),
 and of democracy and equality,
 and of open mindedness.
 
 By fully committing to our common core values,
-of transparency, accountability, environmental stewardship.
+of transparency, accountability, and environmental stewardship,
 of providing voice and exit,
 of democracy, security, and efficiency,
 of open mindedness and dialog,
@@ -124,7 +124,7 @@ if we organize these communities to be decentralized and autonomous yet connecte
 Then from the votes of the people,
 with our hands and feet lead by our reason,
 with our attention and associations,
-with our words and allegiences,
+with our words and allegiances,
 with radical transparency,
 the right communities will emerge and prosper.
 
@@ -140,7 +140,7 @@ and there exists not one monopoly or an oligopoly but a vast federation of netwo
 speaking a common protocol for interoperability.
 
 When the protocols are well designed enough for multiple implementations to compete
-to provide constructive dialog & information discovery, 
+to provide constructive dialog & information discovery,
 and also designed to enable our long term happiness and well-being.
 
 When our mobile and desktop devices are completely open and free designs,
@@ -152,7 +152,7 @@ When the world has become so saturated with open source,
 when it becomes the norm,
 where genuine contributions are rewarded automagically.
 
-When our hardware devices are optimized not only for usabiiity,
+When our hardware devices are optimized not only for usability,
 but also for waste reduction and reusability via modularity,
 and to take into account the full cycle of manufacturing to disposal in the cost of things,
 rather than designed for profits from consumerism.
@@ -160,7 +160,7 @@ rather than designed for profits from consumerism.
 When our social services and public agencies are not held hostage by executive incompetence,
 but are comprised of a network of interoperating decentralized autonomous organizations.
 
-When we have trust in our institutions by virtue of the openness and transparency and accountability.
+When we have trust in our institutions by virtue of their openness and transparency and accountability.
 
 When our representatives are not merely talking heads on censored media channels,
 but are people that we know through our exposure,
@@ -173,23 +173,23 @@ but also to facilitate constructive dialog.
 
 When it all comes together to enable human coordination at all scales,
 from social groups to corporations and coops to international communities
-united under a common mission, to states and munical governments with
+united under a common mission, to states and municipal governments with
 a public engaged in democracy,
 
 When all the people of the earth feel that their voices are heard and that it matters,
 
 When our internet infrastructure becomes sufficiently open and resilient,
-when censorship becomes impossible due to the nature of an incentivized 
+when censorship becomes impossible due to the nature of an incentivized
 networking protocol owned and operated by each local community.
 
-When our financial system is deisgned to give power to the people and envirionment 
+When our financial system is designed to give power to the people and environment
 it should serve, rather than bow to the hollow,
 
 When no authority has the ability to dictate which monetary system one can use by decree,
 but rather when we the buyers and sellers get to vote with our crypto wallets,
 what causes to support,
-such as via the adoptionn and holding of a local currency,
-where inflationary issuances and voluntary tax revenues are used to fund for common infrastructure development; 
+such as via the adoption and holding of a local currency,
+where inflationary issuances and voluntary tax revenues are used to fund for common infrastructure development;
 not by virtue of legislation, but goodwill and social cohesion.
 
 When our financial system is designed to heal the people and the planet on which they depend,
@@ -202,7 +202,6 @@ When we no longer need to expend our time and livelihood accounting for our taxe
 
 When all of these new systems work together to heal the planet and our sense of greater community
 bound by love not hate and fear.
-
 
 # What is Virgo?
 
@@ -222,8 +221,7 @@ to create better open tools for coordination at all scales.
 
 We believe that global coordination tools can be made by following the virtues
 of openness, accountability, stemming from a kind of radical transparency; and
-by drawing from lessons from history of our financial and socialogical systems.
-
+by drawing from lessons from history of our financial and sociological systems.
 
 ## Virgo is a BRAND
 
@@ -240,12 +238,10 @@ carried the scales of justice, which is the constellation Libra." - Wikipedia
 Bitcoin is the IDEA and BRAND of decentralized transparent accountable Money.
 Facebook-Libra is a BRAND of an industry managed Money.
 Open-Libra is the IDEA of decentralized transparent accountable Finance.
-Virgo is a IDEA and BRAND of decentralized transparent accountable Human Coordination.
+Virgo is an IDEA and BRAND of decentralized transparent accountable Human Coordination.
 
 Virgo as a BRAND is managed by a DAO called the United DAOs of Virgo, or UDV
 for short.
-
-
 
 # The United DAOs of Virgo
 
@@ -254,13 +250,13 @@ It is connected to many other associated DAOs.
 
 ## UDV Core Values
 
-* Transparent.
-* Accountable.
-* No Lock-in.
-* Voluntary.
-* Environmental.
-* Democratic.
-* Secure.
+- Transparent.
+- Accountable.
+- No Lock-in.
+- Voluntary.
+- Environmental.
+- Democratic.
+- Secure.
 
 ## UDV Mission
 
@@ -270,15 +266,15 @@ coordination technology.
 
 Virgo will develop and recommend:
 
- * the best protocols that balance transparency and privacy
- * the best social and communications protocols that are truly open and decentralized
- * the best financial system for sustainable development with more legitimacy
- * the best platform for intelligent collective decision making at all scales
+- the best protocols that balance transparency and privacy
+- the best social and communications protocols that are truly open and decentralized
+- the best financial system for sustainable development with more legitimacy
+- the best platform for intelligent collective decision making at all scales
 
 ## UDV Vision
 
 The UDV's vision is to provide the world with the best open collaboration
-technology.  The UDV aims to use this new foundation to help solve the world's
+technology. The UDV aims to use this new foundation to help solve the world's
 greatest challenges, such as preventing catastrophic climate change and
 environmental destruction, and providing for basic human needs for members
 across the globe.
@@ -286,22 +282,22 @@ across the globe.
 ## UDV Composition
 
 The United DAOs of Virgo is itself a DAO that is associated with many sovereign
-member DAOs, making a complex web of assocations.
+member DAOs, making a complex web of associations.
 
-Each of these DAOs are said to conform to the United DAOs Protocols for 
+Each of these DAOs are said to conform to the United DAOs Protocols for
 interoperability.
-
 
 ## United DAOs Protocol
 
 A DAO conforming to the United DAOs Protocols have the following components:
 
-* Executive (optional)
-* Board (optional)
-* Owners
-* Court (optional)
-* Treasury (optional)
-* Directory
+- Executive (optional)
+- Board (optional)
+- Owners
+- Court (optional)
+- Treasury (optional)
+- Directory
+
   - "/README" - information about the DAO.
   - "/BOARD" - information about the board & executive(s).
   - "/LAWS" - specification of DAO composition, such as the composition of the Board (if any), or how the BYLAWS are updated.
@@ -309,13 +305,13 @@ A DAO conforming to the United DAOs Protocols have the following components:
   - "/COMMITTEES" - lightweight DAOs associated by name.
   - "/OWNERS" - privacy preserving information about real persons or entities that have collective control over this DAO.
   - "/MISSION" - the mission of the DAO.
-  
+
 Owners are natural persons or entities (such as a corporation or a DAO like the
 Cosmos Hub), and ownership can be weighted differently or equally (democratic).
 The Board and Executive are also composed of natural persons or entities.
-Members of the Board or Executive each get 1 vote in their respective groups. 
+Members of the Board or Executive each get 1 vote in their respective groups.
 
-The Executive is composed of 1, 2, or 3 members.  The Board and Owners may be
+The Executive is composed of 1, 2, or 3 members. The Board and Owners may be
 composed of any number of members.
 
 Membership of the Board and Executive must conform to the Board Spec which
@@ -330,8 +326,8 @@ and are collectively called the Citizens of the UDV.
 Decisions are made by the passage of Proposals.
 
 In principle, the Executive makes day-to-day decisions, which can be overridden
-by the Board based on time restrictions and veto mechanisms.  Likewise, the Owners
-can override the Executive and Board.  Generally, the Executive and Board
+by the Board based on time restrictions and veto mechanisms. Likewise, the Owners
+can override the Executive and Board. Generally, the Executive and Board
 if present serve the Owners of the DAO.
 
 Board and Executive membership updates are also decided by the passage of Proposals.
@@ -343,38 +339,37 @@ The proposal process and/or the Court (or the membership of the Court)
 are partially controlled by a liquid and direct democracy voting system of
 the Owners.
 
-NOTE: The UDV has Citizens instead of Owners.  The UDV Supreme Court as well as
+NOTE: The UDV has Citizens instead of Owners. The UDV Supreme Court as well as
 the UDV proposal process are partially controlled by the Citizens of the UDV.
-
 
 ## UDV Core Bodies
 
 These member DAOs of the UDV are core to the composition of the UDV.
 
-* Virgo Finance (TODO)
+- Virgo Finance (TODO)
   - Virgo Cash Committee (TODO)
   - Virgo Exchange Committee (TODO)
   - Virgo Custody Committee (TODO)
   - Virgo Regulations Committee (TODO)
   - Virgo Scaling and Interop Committee (TODO)
-  - Virgo Economics Commitee (TODO)
-* Virgo Internet (TODO)
-* Virgo Software (TODO)
-* Virgo Devices (TODO)
-* Virgo Crypto (TODO)
-* Virgo Environment (TODO)
-* Virgo Humanities (TODO)
-* Virgo Space (TODO)
-* Virgo Research (TODO)
-* UDV Congress
+  - Virgo Economics Committee (TODO)
+- Virgo Internet (TODO)
+- Virgo Software (TODO)
+- Virgo Devices (TODO)
+- Virgo Crypto (TODO)
+- Virgo Environment (TODO)
+- Virgo Humanities (TODO)
+- Virgo Space (TODO)
+- Virgo Research (TODO)
+- UDV Congress
   - UDV DAO Senate (TODO)
   - UDV Citizens (TODO)
-* Virgo Supreme Court (TODO)
-* Virgo Services
+- Virgo Supreme Court (TODO)
+- Virgo Services
 
 ## Virgo Services
 
-Virgo Services is a DAO that provides services to the community.  One such
+Virgo Services is a DAO that provides services to the community. One such
 service is offered by forum.virgo.org, which hosts community forums.
 
 NOTE: Assets like domain names and any physical assets are held by external
@@ -382,10 +377,10 @@ entities, with at least reputation at stake, but often tokens as well.
 
 NOTE: here are some communities to be funded by Virgo Services:
 
-* Virgo/OpenLibra
-* Orion (TODO)
-* IBC Working Group (TODO)
-* Tendermint Working Group (TODO)
+- Virgo/OpenLibra
+- Orion (TODO)
+- IBC Working Group (TODO)
+- Tendermint Working Group (TODO)
 
 TODO: Link to site that shows communities.
 
@@ -408,19 +403,18 @@ vote.
 
 # Resources
 
-* [forums](https://forum.virgo.org)
-* [funding](/FUNDING.md)
-* [unsorted](/UNSORTED.md)
-* [glossary](/GLOSSARY.md)
-
+- [forums](https://forum.virgo.org)
+- [funding](/FUNDING.md)
+- [unsorted](/UNSORTED.md)
+- [glossary](/GLOSSARY.md)
 
 # Plan
 
-* Write More
-* Construct Operations Team
-* Constitutional Convention
-* Define First Milestone
-* Define up to Last Milestone
-* Calculatee Responsible Funding Limitations
-* Propose Multiple Funding Models
-* TODO
+- Write More
+- Construct Operations Team
+- Constitutional Convention
+- Define First Milestone
+- Define up to Last Milestone
+- Calculate Responsible Funding Limitations
+- Propose Multiple Funding Models
+- TODO
