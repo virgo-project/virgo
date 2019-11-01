@@ -161,7 +161,7 @@ When our social services and public agencies are not held hostage by executive i
 but are comprised of a network of interoperating decentralized autonomous organizations.
 
 When our education system is not a process of conditioning human beings 
-to become a mere piece in the machinery of infinite growth, 
+to turn them into a mere piece in the machinery of infinite growth, 
 but a virtuous cycle of whole human development.
 
 When we have trust in our institutions by virtue of their openness and transparency and accountability.
