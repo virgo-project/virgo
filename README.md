@@ -359,6 +359,7 @@ These member DAOs of the UDV are core to the composition of the UDV.
 - Virgo Crypto (TODO)
 - Virgo Environment (TODO)
 - Virgo Humanities (TODO)
+- Virgo Education (TODO)
 - Virgo Space (TODO)
 - Virgo Research (TODO)
 - UDV Congress
