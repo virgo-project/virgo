@@ -2,6 +2,8 @@
 
 Virgo is a community-run project and needs your skills to get started! Here are a list of available volunteer roles. These roles are currently uncompensated, but this will change as we build out our strategy and roadmap.
 
+If you're interested in being a part of Virgo, please [join us on Discord](https://discord.gg/Y7E5hwj). And tell us about yourself!
+
 ## Community
 
 ### Community Manager
