@@ -401,6 +401,18 @@ Each DAOs is responsible for maintaining the privacy of its members, if any.
 The UDV DAO Congress is responsible for ensuring that one natural person gets one
 vote.
 
+## **List of projects relevant to the UDV**
+
+- #### Open Source Data Marketplaces 
+
+  - [ErasureBay](https://medium.com/numerai/introducing-erasurebay-7a5de91b78d2) by Numerai 
+  - [Computable](https://www.computable.io/) 
+  - [Ocean Protocol](https://oceanprotocol.com/) 
+
+- #### Open source secure messaging 
+
+  - [Signal](https://signal.org/) by Open Whisper Systems
+
 # Resources
 
 - [forums](https://forum.virgo.org)
