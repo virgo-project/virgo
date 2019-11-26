@@ -2,7 +2,7 @@
   <div id="site-footer">
     <div class="site-container">
       <form-email />
-      <p>&copy; Virgo 2021&mdash;</p>
+      <p>&copy; Virgo 2019&mdash;</p>
     </div>
   </div>
 </template>
