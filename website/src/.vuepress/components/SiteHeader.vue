@@ -10,6 +10,7 @@
         <!--<a href="/about/GLOSSARY">Glossary</a>-->
         <!--<a href="./LAWS">Laws</a>-->
         <!--<a href="./Owners">Owners</a>-->
+        <a href="https://forum.virgo.org">Forum</a>
         <a href="https://github.com/virgo-project/virgo" target="_blank"
           >Contribute</a
         >
