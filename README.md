@@ -12,7 +12,7 @@ has become unsustainable.
 Though our potential is unlimited in the long run,
 we have forgotten how to live in harmony.
 We have been robbed ourselves,
-and still we are ourselves stealing from
+yet still we are stealing from
 the prosperity of future generations.
 
 For the sake of consumption powered by capitalism.
@@ -38,12 +38,12 @@ and fulfilling our collective destiny.
 That is,
 to harness the power of our sun,
 to reach out to the stars,
-to spread out and multiply,
+to spread out and multiply
 the joy of our being.
 
 As Carl Sagan said,
 "We're made of star stuff.
-We are a way for the cosmos to know itself"
+We are a way for the cosmos to know itself."
 
 And this stardust just wants to
 finally feel at home,
@@ -54,16 +54,17 @@ While capitalism may appear to be an unstoppable force,
 the fact of the matter is,
 capital and private property are constructs of our collective hallucination.
 It is we the people who enforce property laws.
-Our minds are open enough to consider different ways of being.
+It does not need be this way. 
+Our minds are open and powerful enough to consider different ways of being.
 
 And we must.
 Unless we want to find ourselves completely surrounded
 by the machines of private property,
 and become discarded,
-as the prophet James Cameron had forewarned us about,
+as the prophet James Cameron had forewarned us about.
 
 We must each use our voices,
-that we have always had but never had the opportunity to use,
+that we have always had but never had the opportunity to effectively use,
 and sing out loud with a thunder
 that pierces through the fabric of this constructed hallucination,
 and change the tune of our reality,
@@ -71,30 +72,37 @@ for the progression of this song called humanity.
 
 Today we are given a golden opportunity
 to harness the gift of computing in our hands,
-and communication at the speed of light,
+and communicate at the speed of light,
 to reimagine where we as a collective society
 decide to devote our collective focus and power.
 
-And by the nature of free voluntary trade using our tools,
+And by the nature of free, voluntary trade using our tools,
 we can make this transition entirely peaceful,
 to synthesize a new beginning
 that transcends the false duality of capitalism vs socialism.
 
 Under no authority,
 and with no preconceived notion of nations,
-and the way we have been considering borders and citizenship.
+and rethink the way we have been considering borders and citizenship,
+For all people are citizens of this world.
 
 Time is in short supply.
 We are dealing with an apocalyptic set of unfolding tragedies.
 A deteriorating environment,
 worsening global warming and climate change,
-soon to be causing the loss of power and electricity, and food shortages,
+soon to be causing the loss of power and electricity, and food shortages.
+
+(what color is the air?)
+
 the worsening economy,
-through the popping of a global pyramid scheme,
+through the implosion of a global pyramid scheme,
 responsible for the exploitation of people,
 and our natural resources.
 
-(what color is the air?)
+the relentless struggle to obtain more,
+driven by capitalist ideals,
+and exploited by profit mongers,
+causing us people to lose sense of what it means to be human.
 
 The racket of war,
 for oil and power,
@@ -106,14 +114,14 @@ of opacity and unaccountability,
 and decay into tyranny.
 
 We must not compromise on our core values.
-Of transparency, accountability, and,
+Of transparency, accountability, individual freedom and,
 not just of sustainability, but of regenerative environmental integration,
 (for we are tenders of the earth),
 and of democracy and equality,
 and of open mindedness.
 
 By fully committing to our common core values,
-of transparency, accountability, and environmental stewardship,
+of transparency, accountability, invidivual freedom and environmental stewardship,
 of providing voice and exit,
 of democracy, security, and efficiency,
 of open mindedness and dialog,
@@ -158,7 +166,8 @@ and to take into account the full cycle of manufacturing to disposal in the cost
 rather than designed for profits from consumerism.
 
 When our social services and public agencies are not held hostage by executive incompetence,
-but are comprised of a network of interoperating decentralized autonomous organizations.
+but are comprised of a network of interoperating decentralized autonomous organizations, 
+where any majority (of individuals) has the power to enact change.
 
 When we have trust in our institutions by virtue of their openness and transparency and accountability.
 
@@ -171,7 +180,7 @@ and data to make intelligent collective decisions for resource management,
 and to enable radically transparent operation which is necessary for accountability,
 but also to facilitate constructive dialog.
 
-When it all comes together to enable human coordination at all scales,
+When it all comes together to enable human coordination at any scale,
 from social groups to corporations and coops to international communities
 united under a common mission, to states and municipal governments with
 a public engaged in democracy,
@@ -189,7 +198,7 @@ When no authority has the ability to dictate which monetary system one can use b
 but rather when we the buyers and sellers get to vote with our crypto wallets,
 what causes to support,
 such as via the adoption and holding of a local currency,
-where inflationary issuances and voluntary tax revenues are used to fund for common infrastructure development;
+where inflationary issuances and voluntary tax revenues are used to fund common infrastructure development;
 not by virtue of legislation, but goodwill and social cohesion.
 
 When our financial system is designed to heal the people and the planet on which they depend,
@@ -199,9 +208,12 @@ When we are given the opportunity to master
 any aspect of the technological infrastructure on which our livelihoods depend,
 
 When we no longer need to expend our time and livelihood accounting for our taxes,
+but rather we are in control of (if and) where they are allocated,
+in an open, transparent, and auditable model.
 
 When all of these new systems work together to heal the planet and our sense of greater community
-bound by love not hate and fear.
+bound by love,
+not hate and fear.
 
 # What is Virgo?
 
@@ -220,7 +232,7 @@ Virgo is an open association of individuals and organizations working together
 to create better open tools for coordination at all scales.
 
 We believe that global coordination tools can be made by following the virtues
-of openness, accountability, stemming from a kind of radical transparency; and
+of openness and accountability, stemming from a kind of radical transparency; and
 by drawing from lessons from history of our financial and sociological systems.
 
 ## Virgo is a BRAND
@@ -230,15 +242,15 @@ behavior" related to the Libra Association amid concerns the proposed payment
 system would unfairly shut out rivals, the EU authority said in a questionnaire
 sent out earlier this month." - Bloomberg 2019-08-20
 
-"In mythology a Libra is related to the Greek Goddess of Justice, Themis, the
+"In mythology, a Libra is related to the Greek Goddess of Justice, Themis, the
 Greek mythology version of Atalanta (meaning balanced), and Astraea (daughter
 of Themis), who went up to heaven and became the constellation of Virgo, and
 carried the scales of justice, which is the constellation Libra." - Wikipedia
 
-Bitcoin is the IDEA and BRAND of decentralized transparent accountable Money.
+Bitcoin is the IDEA and BRAND of decentralized, transparent, accountable Money.
 Facebook-Libra is a BRAND of an industry managed Money.
-Open-Libra is the IDEA of decentralized transparent accountable Finance.
-Virgo is an IDEA and BRAND of decentralized transparent accountable Human Coordination.
+Open-Libra is the IDEA of decentralized, transparent, accountable Finance.
+Virgo is an IDEA and BRAND of decentralized, transparent, accountable Human Coordination.
 
 Virgo as a BRAND is managed by a DAO called the United DAOs of Virgo, or UDV
 for short.
@@ -276,7 +288,7 @@ Virgo will develop and recommend:
 The UDV's vision is to provide the world with the best open collaboration
 technology. The UDV aims to use this new foundation to help solve the world's
 greatest challenges, such as preventing catastrophic climate change and
-environmental destruction, and providing for basic human needs for members
+environmental destruction, and providing for the basic human needs of members
 across the globe.
 
 ## UDV Composition
@@ -327,8 +339,8 @@ Decisions are made by the passage of Proposals.
 
 In principle, the Executive makes day-to-day decisions, which can be overridden
 by the Board based on time restrictions and veto mechanisms. Likewise, the Owners
-can override the Executive and Board. Generally, the Executive and Board
-if present serve the Owners of the DAO.
+can override the Executive and Board. Generally, the Executive and Board,
+if present, serve the Owners of the DAO.
 
 Board and Executive membership updates are also decided by the passage of Proposals.
 
