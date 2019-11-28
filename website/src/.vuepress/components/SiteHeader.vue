@@ -27,29 +27,30 @@ export default {
 
 <style>
 #site-header {
-  border-bottom: 1px solid var(--bc);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: var(--z-app-header);
 }
 #site-header a {
   text-decoration: none;
-  color: var(--txt);
+  color: #fff;
   padding: 0 0.5rem;
+  display: block;
+  background: hsla(0, 0%, 0%, 0.75);
 }
 #site-header .site-container {
-  min-height: 6rem;
   line-height: 3rem;
   display: flex;
   flex-flow: column nowrap;
 }
 #site-logo {
-  flex: 1;
   font-weight: bold;
   font-size: 1.25rem;
   text-transform: uppercase;
   letter-spacing: -0.03rem;
   text-align: center;
-}
-#site-logo a {
-  color: #0f0;
 }
 #site-nav {
   flex: 3;
@@ -59,7 +60,7 @@ export default {
 @media screen and (min-width: 768px) {
   #site-header {
     border-bottom: none;
-    padding: 0 2rem;
+    margin: 1rem 0;
   }
   #site-header .site-container {
     flex-flow: row nowrap;
