@@ -70,19 +70,30 @@ export default {
     img
       width 0.75rem
       height 0.75rem
-      margin-right 0.5rem
+      margin-right 0.375rem
 
 @media screen and (min-width: 768px)
   #site-header
     padding 0 12.5%
+
   #site-logo
     padding 0
+
   #site-nav
+
     flex 2
     a
       flex 1
-      font-size 1rem
+      font-size 0.875rem
       width 100%
+      img
+        width 0.875rem
+        height 0.875rem
+
+@media screen and (min-width: 1024px)
+  #site-nav
+    a
+      font-size 1rem
       img
         width 1rem
         height 1rem

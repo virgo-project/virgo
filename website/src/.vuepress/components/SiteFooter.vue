@@ -1,9 +1,11 @@
 <template>
   <div id="site-footer">
-    <div class="site-container">
+    <site-container-text>
       <form-email />
+    </site-container-text>
+    <site-container>
       <p>&copy; Virgo 2019&mdash;</p>
-    </div>
+    </site-container>
   </div>
 </template>
 
@@ -17,9 +19,13 @@ export default {
 };
 </script>
 
-<style>
-#site-footer .site-container {
-  padding: 1rem;
-  text-align: center;
-}
+<style scoped lang="stylus">
+#site-footer
+  background #222
+  color #fff
+
+  p
+    font-family var(--sans)
+    color #999
+    margin 0
 </style>

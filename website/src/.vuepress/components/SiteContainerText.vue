@@ -1,25 +1,15 @@
 <template>
-  <div id="site-markdown">
-    <Content />
+  <div class="site-container-text">
+    <slot />
   </div>
 </template>
 
 <style scoped lang="stylus">
-#site-markdown
-  flex 1
-  padding 3rem 1rem
-  margin-top 3rem
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6
-    margin-bottom 1rem
+.site-container-text
+  padding 1rem
 
 @media screen and (min-width: 768px)
-  #site-markdown
+  .site-container-text
     margin-left 12.5vw
     margin-right 12.5vw
     font-size 1.125rem
@@ -27,6 +17,6 @@
     padding-right 0
 
 @media screen and (min-width: 1024px)
-  #site-markdown
+  .site-container-text
     padding-left 25vw
 </style>

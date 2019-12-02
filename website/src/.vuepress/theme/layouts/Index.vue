@@ -82,14 +82,11 @@
 
 @media screen and (min-width: 768px)
   .site-hero__text
-    font-size 1.5rem
+    font-size 1.25rem
     margin-left 12.5vw
     margin-right 12.5vw
 
 @media screen and (min-width: 1024px)
   .site-hero__text
-    font-size 1.5rem
-    margin-left 12.5vw
-    margin-right 12.5vw
     padding-left 25vw
 </style>

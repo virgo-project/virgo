@@ -12,10 +12,6 @@ html {
   min-height: 100vh;
   flex-flow: column nowrap;
 }
-.site-container {
-  max-width: 1024px;
-  margin: 0 auto;
-}
 
 a {
   text-decoration: none;
@@ -36,4 +32,7 @@ h6 {
 
 p {
   margin: 1.5em 0;
+}
+p:last-child {
+  margin-bottom: 0;
 }

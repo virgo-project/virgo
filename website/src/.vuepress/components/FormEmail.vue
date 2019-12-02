@@ -42,42 +42,48 @@
 
 <style scoped lang="stylus">
 .vg-form
-    background #f6f6f6
-    padding 1rem
-    max-width 40rem
-    margin 0 auto
-    input
-        display inline-block
-        padding 0 1rem
-        height 2rem
-        line-height 2rem
-        margin 0
-        box-sizing border-box
-    input[type="text"]
-        border 1px solid #ddd
-    input[type="submit"]
-        background #000
-        color #fff
-        border none
-        margin-top 0.5rem
+  border-top 2px solid #444
+  padding-top 1rem
+
+  input
+    display inline-block
+    padding 0 1em
+    height 3em
+    line-height 2rem
+    margin 0
+    box-sizing border-box
+    font-family var(--sans)
+
+  input[type="text"]
+  input[type="email"]
+    border 1px solid var(--bc)
+
+  input[type="submit"]
+    background #000
+    color #fff
+    border none
+    margin-top 0.5rem
 
 .vg-form__header
-    text-align center
-    h3
-        margin-bottom 1rem
+  h3
+    margin-bottom 1.5rem
+    font-weight normal
 
 .vg-form__fields
-    display flex
-    justify-content center
-    flex-flow column nowrap
+  display flex
+  justify-content center
+  flex-flow column nowrap
 
 @media screen and (min-width: 768px)
   .vg-form__fields
-      flex-flow row nowrap
+    flex-flow row nowrap
+    justify-content flex-start
+
   .vg-form
-      padding-top 2rem
-      padding-bottom 2rem
-      input[type="submit"]
-          margin-top 0
-          margin-left 0.5rem
+    margin-top 2rem
+    padding-top 2rem
+    padding-bottom 1rem
+    input[type="submit"]
+      margin-top 0
+      margin-left 0.5rem
 </style>
