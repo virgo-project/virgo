@@ -4,13 +4,13 @@
     <div id="site-hero">
       <div id="video-container">
         <video id="video-bg" autoplay loop muted playsinline>
-          <source :src="$frontmatter.vidmp4" type="video/mp4" />
           <source :src="$frontmatter.vidwebm" type="video/webm" />
+          <source :src="$frontmatter.vidmpeg" type="video/mp4" />
         </video>
       </div>
       <div class="site-hero__text">
         <site-content />
-        <button class="vg-button">Put out the fire</button>
+        <button class="vg-button">Learn more</button>
       </div>
     </div>
     <site-footer />

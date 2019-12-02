@@ -1,8 +1,7 @@
 <template>
   <div id="site-header">
     <a id="site-logo" href="/">Virgo</a>
-    <a id="site-nav-toggle" @click="toggleNav">Menu</a>
-    <nav id="site-nav" v-bind:class="{ active: siteNavActive }">
+    <nav id="site-nav">
       <a href="/about">Manifesto</a>
       <a href="/about/FUNDING">Funding</a>
       <!--<a href="/about/BOARD">Board</a>-->
@@ -12,7 +11,7 @@
       <!--<a href="./Owners">Owners</a>-->
       <a href="https://forum.virgo.org">Forum</a>
       <a href="https://github.com/virgo-project/virgo" target="_blank"
-        >Contribute</a
+        >GitHub</a
       >
     </nav>
   </div>
@@ -20,13 +19,7 @@
 
 <script>
 export default {
-  name: "site-header",
-  data: () => ({
-    siteNavActive: false
-  }),
-  methods: {
-    toggleNav() {}
-  }
+  name: "site-header"
 };
 </script>
 
@@ -39,29 +32,33 @@ export default {
   height 3rem
   z-index var(--z-app-header)
   background #fff
-  z-index 10000
 
-  display grid
-  grid-auto-flow column
+  display flex
+  align-items center
 
 #site-header a
   color var(--txt)
 
 #site-logo
-#site-nav-toggle
+  display block
   line-height 3rem
   padding 0 1rem
-
-#site-logo
   font-weight bold
   text-transform uppercase
-
-#site-nav-toggle
-  text-align right
+  flex 1
 
 #site-nav
-  display none
+  flex 3
+  font-size 0.75rem
+  display flex
+  flex-flow row wrap
+  a
+    width 50%
+    line-height 1.125rem
 
-#site-nav.site-nav--visible
-  display block
+@media screen and (min-width: 768px)
+  #site-nav a
+    flex 1
+    font-size 1rem
+    width 100%
 </style>

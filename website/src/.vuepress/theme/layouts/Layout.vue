@@ -7,7 +7,7 @@
 </template>
 
 <style>
-@import "../styles/normalize.css";
-@import "../styles/variables.css";
-@import "../styles/screen.css";
+@import "../../styles/normalize.css";
+@import "../../styles/variables.css";
+@import "../../styles/screen.css";
 </style>

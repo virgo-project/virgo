@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 html {
-  font: 18px/1.5 var(--sans);
+  font: 16px/1.5 var(--sans);
   min-height: 100vh;
   background: #fff;
 }
