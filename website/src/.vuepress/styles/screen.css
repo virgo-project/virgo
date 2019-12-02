@@ -17,6 +17,10 @@ html {
   margin: 0 auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 h1,
 h2,
 h3,

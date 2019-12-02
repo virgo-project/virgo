@@ -4,6 +4,14 @@ module.exports = {
   head: [
     [
       "link",
+      {
+        rel: "stylesheet",
+        type: "text/css",
+        href: "https://cloud.typography.com/6138116/7689812/css/fonts.css"
+      }
+    ],
+    [
+      "link",
       { rel: "shortcut icon", type: "image/png", href: "/logo-white.png" }
     ],
     [

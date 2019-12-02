@@ -1,9 +1,9 @@
 ---
 layout: index
-vidmp4: "/fire-green.mp4"
-vidwebm: "/fire.webm"
+vidwebm: "/output-1500k.webm"
+vidmp4: "/output-1500k.mp4"
 ---
 
-# THE WORLD IS BURNING
+# We are surrounded by fire
 
 And we can't wait for our governments to fix it. Virgo empowers humanity to discuss tragedies of the commons and crowdfunds solutions.
