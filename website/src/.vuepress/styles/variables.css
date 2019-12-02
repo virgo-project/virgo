@@ -29,5 +29,8 @@
   --z-zero: 0;
   --z-below: -1;
 
-  --sans: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  --serif: "Mercury SSm A", "Mercury SSm B", "Georgia", "Times New Roman" serif;
+
+  --sans: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Arial, Helvetica,
+    sans-serif;
 }

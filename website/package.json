@@ -9,7 +9,8 @@
     "copyindex": "cd .. && npx copyfiles -f *.md website/src/about",
     "copyresearch": "cd .. && npx copyfiles -f Virgo_Finance/*.md website/src/finance",
     "copyfinance": "cd .. && npx copyfiles -f research/*.md website/src/research",
-    "build": "npm run copyindex && npm run copyresearch && npm run copyfinance && npm run buildsite"
+    "copy": "npm run copyindex && npm run copyresearch && npm run copyfinance",
+    "build": "npm run copy && npm run buildsite"
   },
   "repository": {
     "type": "git",
