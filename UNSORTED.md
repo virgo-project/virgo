@@ -16,3 +16,16 @@ privacy-preserving cross-DAO identity system.
 
 * A simple use-case of a DAO is for a state or municipality to manage the
   direction and funding of lightweight councils/committees.
+  
+  ## **List of projects relevant to the UDV**
+
+- #### Open Source Data Marketplaces 
+
+  - [ErasureBay](https://medium.com/numerai/introducing-erasurebay-7a5de91b78d2) by Numerai 
+  - [Computable](https://www.computable.io/) 
+  - [Ocean Protocol](https://oceanprotocol.com/) 
+
+- #### Open source secure messaging 
+
+  - [Signal](https://signal.org/) by Open Whisper Systems
+
