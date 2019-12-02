@@ -27,5 +27,8 @@
     "copyfiles": "^2.1.1",
     "npx": "^10.2.0",
     "vuepress": "^1.2.0"
+  },
+  "dependencies": {
+    "@cosmos-ui/vue": "^0.5.16"
   }
 }
