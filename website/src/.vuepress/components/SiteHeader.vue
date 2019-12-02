@@ -39,6 +39,7 @@ export default {
 
   display flex
   align-items center
+  font-family var(--sans)
 
 #site-header a
   color var(--txt)

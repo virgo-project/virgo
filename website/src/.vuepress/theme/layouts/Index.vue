@@ -68,7 +68,6 @@
   padding 0 1em
   background hsla(0, 100%, 0%, 0.75)
   color #fff
-  font-weight bold
   border none
 
 @media (min-aspect-ratio: 16/9)
