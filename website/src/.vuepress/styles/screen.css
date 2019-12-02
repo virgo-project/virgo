@@ -28,6 +28,7 @@ h6 {
   letter-spacing: -0.02em;
   margin: 0;
   font-family: var(--sans);
+  margin-bottom: 1.5rem;
 }
 
 p {

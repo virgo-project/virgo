@@ -10,14 +10,6 @@
   padding 3rem 1rem
   margin-top 3rem
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6
-    margin-bottom 1rem
-
 @media screen and (min-width: 768px)
   #site-markdown
     margin-left 12.5vw
