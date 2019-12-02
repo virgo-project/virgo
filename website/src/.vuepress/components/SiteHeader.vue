@@ -9,11 +9,19 @@
       <!--<a href="./LAWS">Laws</a>-->
       <!--<a href="./Owners">Owners</a>-->
       <a href="/about/FUNDING">Donate</a>
-      <a href="https://forum.virgo.org">
+      <a
+        href="https://forum.virgo.org"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
         <img src="../images/discourse.svg" />
         Discuss
       </a>
-      <a href="https://github.com/virgo-project/virgo" target="_blank">
+      <a
+        href="https://github.com/virgo-project/virgo"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
         <img src="../images/github.svg" />
         Contribute
       </a>

@@ -4,8 +4,8 @@
     <div id="site-hero">
       <div id="video-container">
         <video id="video-bg" autoplay loop muted playsinline>
-          <source :src="$frontmatter.vidwebm" type="video/webm" />
-          <source :src="$frontmatter.vidmpeg" type="video/mp4" />
+          <source :src="$frontmatter.webm" type="video/webm" />
+          <source :src="$frontmatter.mpeg" type="video/mp4" />
         </video>
       </div>
       <div class="site-hero__text">
