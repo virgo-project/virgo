@@ -7,7 +7,7 @@ module.exports = {
       {
         rel: "stylesheet",
         type: "text/css",
-        href: "https://cloud.typography.com/6138116/7689812/css/fonts.css"
+        href: "https://cloud.typography.com/6138116/6232012/css/fonts.css"
       }
     ],
     [

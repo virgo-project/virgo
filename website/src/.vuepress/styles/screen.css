@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 html {
-  font: 16px/1.5 var(--sans);
+  font: 16px/1.5 var(--serif);
   min-height: 100vh;
   background: #fff;
 }
@@ -28,7 +28,12 @@ h4,
 h5,
 h6 {
   line-height: 1.25;
-  margin: 0 0 1.5rem;
   font-weight: bold;
   letter-spacing: -0.02em;
+  margin: 0;
+  font-family: var(--sans);
+}
+
+p {
+  margin: 1.5em 0;
 }

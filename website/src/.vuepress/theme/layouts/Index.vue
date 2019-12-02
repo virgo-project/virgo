@@ -9,15 +9,20 @@
         </video>
       </div>
       <div class="site-hero__text">
-        <site-content />
-        <button class="vg-button">Learn more</button>
+        <h1>We are surrounded by <strong>fire</strong></h1>
+        <p>
+          And our governments aren't going to fix it. But we can. Virgo gives
+          you the tools to coordinate and solve problems from local issues all
+          the way to global crises.
+        </p>
+        <a href="/about" class="vg-button">Read the manifesto</a>
       </div>
     </div>
     <site-footer />
   </div>
 </template>
 
-<style lang="stylus" scoped>
+<style scoped lang="stylus">
 @import "../../styles/normalize.css"
 @import "../../styles/variables.css"
 @import "../../styles/screen.css"
@@ -25,17 +30,16 @@
 #site-hero
   width 100vw
   height 100vh
-  color #fff
   display flex
   align-items center
   justify-content center
-  padding 6rem 0
+  padding-top 3em
 
-  .site-hero__text
-    z-index 1
-    color #fff
-    padding 1rem
-    text-shadow #000 0 2px 2px
+.site-hero__text
+  color #fff
+  z-index 1
+  text-shadow #000 0 2px 3px
+  padding 0 1em
 
 #video-container
   position absolute
@@ -57,9 +61,11 @@
     z-index 1
 
 .vg-button
-  height 3rem
-  line-height 3rem
-  padding 0 1rem
+  font-family var(--sans)
+  display inline-block
+  height 3em
+  line-height 3em
+  padding 0 1em
   background hsla(0, 100%, 0%, 0.75)
   color #fff
   font-weight bold
@@ -67,11 +73,24 @@
 
 @media (min-aspect-ratio: 16/9)
   #video-bg
-      width 100%
-      height auto
+    width 100%
+    height auto
 
 @media (max-aspect-ratio: 16/9)
   #video-bg
-      width auto
-      height 100%
+    width auto
+    height 100%
+
+@media screen and (min-width: 768px)
+  .site-hero__text
+    font-size 1.5rem
+    margin-left 12.5vw
+    margin-right 12.5vw
+
+@media screen and (min-width: 1024px)
+  .site-hero__text
+    font-size 1.5rem
+    margin-left 12.5vw
+    margin-right 12.5vw
+    padding-left 25vw
 </style>

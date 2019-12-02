@@ -1,7 +1,7 @@
 <template>
   <div id="site">
     <site-header />
-    <site-content />
+    <site-markdown />
     <site-footer />
   </div>
 </template>

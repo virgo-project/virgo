@@ -40,52 +40,44 @@
   <!--End mc_embed_signup-->
 </template>
 
-<style>
-.vg-form {
-  background: #f6f6f6;
-  padding: 1rem;
-  max-width: 40rem;
-  margin: 0 auto;
-}
-.vg-form__header {
-  text-align: center;
-}
-.vg-form__header h3 {
-  margin-bottom: 1rem;
-}
-.vg-form__fields {
-  display: flex;
-  justify-content: center;
-  flex-flow: column nowrap;
-}
-.vg-form input {
-  display: inline-block;
-  padding: 0 1rem;
-  height: 2rem;
-  line-height: 2rem;
-  margin: 0;
-  box-sizing: border-box;
-}
-.vg-form input[type="text"] {
-  border: 1px solid #ddd;
-}
-.vg-form input[type="submit"] {
-  background: #000;
-  color: #fff;
-  border: none;
-  margin-top: 0.5rem;
-}
-@media screen and (min-width: 768px) {
-  .vg-form__fields {
-    flex-flow: row nowrap;
-  }
-  .vg-form {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-  }
-  .vg-form input[type="submit"] {
-    margin-top: 0;
-    margin-left: 0.5rem;
-  }
-}
+<style scoped lang="stylus">
+.vg-form
+    background #f6f6f6
+    padding 1rem
+    max-width 40rem
+    margin 0 auto
+    input
+        display inline-block
+        padding 0 1rem
+        height 2rem
+        line-height 2rem
+        margin 0
+        box-sizing border-box
+    input[type="text"]
+        border 1px solid #ddd
+    input[type="submit"]
+        background #000
+        color #fff
+        border none
+        margin-top 0.5rem
+
+.vg-form__header
+    text-align center
+    h3
+        margin-bottom 1rem
+
+.vg-form__fields
+    display flex
+    justify-content center
+    flex-flow column nowrap
+
+@media screen and (min-width: 768px)
+  .vg-form__fields
+      flex-flow row nowrap
+  .vg-form
+      padding-top 2rem
+      padding-bottom 2rem
+      input[type="submit"]
+          margin-top 0
+          margin-left 0.5rem
 </style>
