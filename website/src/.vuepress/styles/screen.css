@@ -1,16 +1,9 @@
 * {
   box-sizing: border-box;
 }
-html {
+body {
   font: 16px/1.5 var(--serif);
-  min-height: 100vh;
   background: #fff;
-}
-
-#site {
-  display: flex;
-  min-height: 100vh;
-  flex-flow: column nowrap;
 }
 
 a {
