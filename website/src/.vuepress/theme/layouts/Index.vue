@@ -4,8 +4,8 @@
     <div id="site-hero">
       <div id="video-container">
         <video id="video-bg" autoplay loop muted playsinline>
-          <source :src="$frontmatter.vidwebm" type="video/webm" />
-          <source :src="$frontmatter.vidmpeg" type="video/mp4" />
+          <source :src="$frontmatter.webm" type="video/webm" />
+          <source :src="$frontmatter.mpeg" type="video/mp4" />
         </video>
       </div>
       <div class="site-hero__text">
@@ -68,7 +68,6 @@
   padding 0 1em
   background hsla(0, 100%, 0%, 0.75)
   color #fff
-  font-weight bold
   border none
 
 @media (min-aspect-ratio: 16/9)
@@ -83,14 +82,11 @@
 
 @media screen and (min-width: 768px)
   .site-hero__text
-    font-size 1.5rem
+    font-size 1.25rem
     margin-left 12.5vw
     margin-right 12.5vw
 
 @media screen and (min-width: 1024px)
   .site-hero__text
-    font-size 1.5rem
-    margin-left 12.5vw
-    margin-right 12.5vw
     padding-left 25vw
 </style>

@@ -9,11 +9,19 @@
       <!--<a href="./LAWS">Laws</a>-->
       <!--<a href="./Owners">Owners</a>-->
       <a href="/about/FUNDING">Donate</a>
-      <a href="https://forum.virgo.org">
+      <a
+        href="https://forum.virgo.org"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
         <img src="../images/discourse.svg" />
         Discuss
       </a>
-      <a href="https://github.com/virgo-project/virgo" target="_blank">
+      <a
+        href="https://github.com/virgo-project/virgo"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
         <img src="../images/github.svg" />
         Contribute
       </a>
@@ -39,6 +47,7 @@ export default {
 
   display flex
   align-items center
+  font-family var(--sans)
 
 #site-header a
   color var(--txt)
@@ -69,19 +78,30 @@ export default {
     img
       width 0.75rem
       height 0.75rem
-      margin-right 0.5rem
+      margin-right 0.375rem
 
 @media screen and (min-width: 768px)
   #site-header
     padding 0 12.5%
+
   #site-logo
     padding 0
+
   #site-nav
+
     flex 2
     a
       flex 1
-      font-size 1rem
+      font-size 0.875rem
       width 100%
+      img
+        width 0.875rem
+        height 0.875rem
+
+@media screen and (min-width: 1024px)
+  #site-nav
+    a
+      font-size 1rem
       img
         width 1rem
         height 1rem

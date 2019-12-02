@@ -1,5 +1,5 @@
 ---
 layout: index
-vidwebm: "/output-1500k.webm"
-vidmpeg: "/output-1500k.mp4"
+webm: "/output-1500k.webm"
+mpeg: "/output-1500k.mp4"
 ---
