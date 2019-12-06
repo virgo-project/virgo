@@ -150,7 +150,11 @@ export default {
 
 @media screen and (min-width: 1024px)
   .site-hero__text
-    padding-left 25vw
+    text-align center
+    padding-left 12.5vw
+    padding-right 12.5vw
+    .vg-btns
+      justify-content center
     p
       margin 2em 0
 </style>
