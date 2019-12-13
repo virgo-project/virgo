@@ -2,19 +2,17 @@
 
 We are surrounded by fire.
 
-When you follow the news, you find that there is little hope for our future.
+When you follow the news, you find that there is little hope for our future and the future of our children.
 
 We are dealing with a set of unfolding tragedies. A deteriorating environment, a rapidly warming climate, and an economy on the verge of implosion.
 
 The racket of war, for oil and power, is already disintegrating international treaties. In the greatest superpowers, we see acceptance of darkness, of opaqueness, of unaccountability, and of decay into tyranny.
 
-The systems that we have inherited and co-created have become unsustainable.
+It's apparent that the systems that we have inherited and co-created have become unsustainable.
 
-Capitalism is the most magnificent fire that is engulfing this planet today.
+Capitalism is combustion. Those with the ability to accumulate capital begets more capital exponentially. Capitalism is the most magnificent fire that is engulfing this planet today.
 
-We are stealing from the prosperity of future generations, for the sake of consumption.
-
-While capitalism may appear to be unstoppable, it is also just a construct of our collective hallucination. It does not need be this way. Our minds are open and powerful enough to consider different ways of being.
+While capitalism may appear to be an unstoppable force, the fact of the matter is, capital and private property are constructs of our collective hallucination. It does not need be this way. Our minds are open and powerful enough to consider different ways of being.
 
 We must each use our voices, and sing out loud with a thunder
 that pierces through the fabric of this constructed hallucination, and change the tune of our reality, for the progression of this song called humanity.
@@ -41,11 +39,9 @@ When we can trust our institutions by virtue of their transparency and accountab
 When our internet infrastructure becomes open and resilient,
 when censorship becomes impossible due to the nature of an incentivized networks owned and operated by local communities.
 
-When our financial system is designed to give power to the people and environment
-
 When our financial system is designed to heal the people and the planet on which they depend, rather than incentivize the exploitation of it.
 
-When we no longer need to expend our time accounting for our taxes, but rather we are in control of where they are allocated, in an transparent and auditable model.
+When we no longer need to expend our time accounting for our taxes, but rather we are in control of where they are allocated, in a transparent and auditable model.
 
 When all the people of the earth feel that their voices are heard.
 
