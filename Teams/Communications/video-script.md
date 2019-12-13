@@ -26,11 +26,11 @@ By fully committing to our core values of transparency, accountability, democrac
 If we organize these communities to be decentralized autonomous organization, then from the votes of the people,
 the right communities will emerge and prosper.
 
-When the software that powers our communications are free, with privacy by default, and there exists not one monopoly but a vast federation of interoperable networks
+When the software that powers our communications are free, with privacy by default, and there exists not one monopoly but a vast federation of interoperable networks.
 
 When our devices are built on open designs, so that anyone can manufacture them and verify their security. 
 
-When our tools are optimized for reusability and waste reduction instead of profit from consumerism.
+When our tools are optimized for reusability and waste reduction instead of profit through planned obsolescence.
 
 When our social services are not held hostage by ineffective leadership, but are comprised of a network of DAOs, where any majority can vote for change.
 
