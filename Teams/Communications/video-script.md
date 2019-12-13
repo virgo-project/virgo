@@ -50,4 +50,4 @@ and our sense of greater community bound by love, not hate and fear.
 
 When it all comes together to enable human coordination at any scale, united under a common mission.
 
-Welcome to Virgo.
+Let's fix the world together. Join us at Virgo.
