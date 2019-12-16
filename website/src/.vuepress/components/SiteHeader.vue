@@ -7,7 +7,8 @@
       <!--<a href="/about/BYLAWS">Bylaws</a>
       <!--<a href="/about/GLOSSARY">Glossary</a>-->
       <!--<a href="./LAWS">Laws</a>-->
-      <!--<a href="./Owners">Owners</a>-->
+      <a href="./about/UDV">UDV</a>
+      <a href="./about/roles">Roles</a>
       <a href="/about/FUNDING">Donate</a>
       <a
         href="https://forum.virgo.org"
@@ -17,6 +18,7 @@
         <img src="../images/discourse.svg" />
         Discuss
       </a>
+      <!--
       <a
         href="https://github.com/virgo-project/virgo"
         target="_blank"
@@ -25,6 +27,7 @@
         <img src="../images/github.svg" />
         Contribute
       </a>
+      -->
     </nav>
   </div>
 </template>
