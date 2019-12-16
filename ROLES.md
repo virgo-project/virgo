@@ -46,7 +46,7 @@ This talented individual helps us connect and network with governments and organ
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ## Virgo Devices
-The Virgo Finance team...
+The Virgo Devices team works on bringing open hardware concepts from prototype to production.
 
 ### Hardware Developer
 We're interested in the idea of researching and building an open, uncensorable alternative to mobile phones and/or laptops. We're open to partnering with such a team too.
