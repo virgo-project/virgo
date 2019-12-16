@@ -9,7 +9,7 @@
       <!--<a href="./LAWS">Laws</a>-->
       <a href="./about/UDV">UDV</a>
       <a href="./about/roles">Roles</a>
-      <a href="/about/FUNDING">Donate</a>
+      <!--<a href="/about/FUNDING">Donate</a>-->
       <a
         href="https://forum.virgo.org"
         target="_blank"

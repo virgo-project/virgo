@@ -1,6 +1,6 @@
 # Roles
 
-Virgo is a community-run project and needs your skills to get started! Here are a list of available volunteer roles. These roles are currently uncompensated, but this will change as we build out our strategy and roadmap.
+Virgo is a community-run project and needs your skills to get started! Here are a list of available roles. These roles are compensated, but we are also accepting volunteers who share our vision for a more sustainable future. We're building out our strategy and roadmap so stay tuned for more roles in the near future.
 
 If you're interested in being a part of Virgo, please [join us on the forum](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54). And tell us about yourself!
 
