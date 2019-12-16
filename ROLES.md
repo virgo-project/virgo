@@ -46,33 +46,34 @@ This talented individual helps us connect and network with governments and organ
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ## Virgo Devices
-The Virgo Devices team works on bringing open hardware concepts from prototype to production.
+The Virgo Devices team works on solving the difficult problem of performant open hardware. The team is focused on bringing open hardware concepts from prototype to production.
 
 ### Hardware Developer
 We're interested in the idea of researching and building an open, uncensorable alternative to mobile phones and/or laptops. We're open to partnering with such a team too.
 
+Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
+
 ## Virgo Finance
-The Virgo Finance team...
+The Virgo Finance team works to solve long-standing financial issues that plague the world economy.
 
 ### Finance Engineer
-Role description coming soon...
+
+Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ## Virgo Software
-The Virgo Software team...
+The Virgo Software team works on solving coordination through user-friendly organization-level tools.
 
 ### Cosmos SDK Developer
 We're looking for a Golang developer who's used the Cosmos SDK before, or interested in learning. You'll work with us to build the backend for front-ends to the Virgo community application.
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
-### Mobile Developer
-We're looking for a mobile developer to lead the Virgo mobile application project. You'll work closely with our web developers and our Cosmos SDK developer to build a multi-platform frontend for the Virgo community.
-
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
-
 ### Web App Developer
-We're looking for a talented web application developer to spearhead the Virgo web application. You'll work closely with our mobile developer to achieve feature parity in our UIs, as well as collaborate with the Cosmos SDK developer on backend features.
+We're looking a talented web application developer to spearhead the Virgo web application. You'll work closely with our UI/UX designer to build the interface for mobile and web, as well as collaborate with the Cosmos SDK developer on backend features.
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
+### UI/UX Designer
+We're looking for an ambitious UI/UX designer to help us research and design the next generation of organization management tools.
 
+Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
