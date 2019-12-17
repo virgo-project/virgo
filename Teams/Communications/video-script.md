@@ -16,11 +16,11 @@ While capitalism may appear to be an unstoppable force, the fact of the matter i
 
 We must each use our voices, and sing out loud with a thunder that pierces through the fabric of this constructed hallucination, and change the tune of our reality, for the progression of this song called humanity.
 
-Under no authority, and with no preconceived notion of nations, and rethink the way we consider borders and citizenship, For all people are citizens of this world.
+Under no authority, and with no preconceived notion of nations, and rethink the way we consider borders and citizenship, for all people are citizens of this world.
 
 By fully committing to our core values of transparency, accountability, democracy and environmental stewardship.
 
-If we organize these communities to be decentralized autonomous organization, then from the votes of the people, the right communities will emerge and prosper.
+If we organize these communities into decentralized autonomous organizations, then from the votes of the people, the right communities will emerge and prosper.
 
 When the software that powers our communications are free, with privacy by default, and there exists not one monopoly but a vast federation of interoperable networks.
 
@@ -32,7 +32,7 @@ When our social services are not held hostage by ineffective leadership, but are
 
 When we can trust our institutions by virtue of their transparency and accountability.
 
-When our internet infrastructure becomes open and resilient, when censorship becomes impossible due to the nature of an incentivized networks owned and operated by local communities.
+When our internet infrastructure becomes open and resilient, when censorship becomes impossible due to the nature of incentivized networks owned by local communities.
 
 When our financial system is designed to heal the people and the planet on which they depend, rather than incentivize the exploitation of it.
 
