@@ -19,6 +19,11 @@ We're looking for a dedicated community manager to help us run communications vi
 
 Status: 50% fulfilled
 
+### Frontend Web Developer
+We're looking for a web developer to help us build and maintain the Virgo website. This person will work closely within our Community team to onboard as many interested people as possible to Virgo.
+
+Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
+
 ### Graphic Designer
 This role is for a highly talented graphic designer who help us brand and create visuals for the Virgo project.
 
@@ -28,11 +33,6 @@ Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining
 This role is for an individual or team who can help with animation, motion design, and videos to communicate about for the Virgo project.
 
 Status: 50% fulfilled
-
-### Frontend Web Developer
-We're looking for a web developer to help us build and maintain the Virgo website. This person will work closely within our Community team to onboard as many interested people as possible to Virgo.
-
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ## Virgo Community
 The Virgo Community team works on outreach, networking, and relationship-building with other organizations that have a shared vision of a more sustainable future.
@@ -68,7 +68,19 @@ The Virgo Finance team works to solve long-standing financial issues that plague
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ## Virgo Software
-The Virgo Software team works on solving coordination through user-friendly organization-level tools.
+The Virgo Software team works on solving human coordination through user-friendly organization-level applications.
+
+### Backend Developer
+
+We're looking for a backend developer with in-depth knowledge of databases. You'll work closely with the Cosmos SDK Developer and our Frontend Developer us to build a data store for the Virgo web application.
+
+#### We're looking for
+* 3+ years in backend development
+* Extensive experience with databases: SQL, noSQL, GraphQL
+* Exceptional written and oral communication skills
+* Experience working with distributed teams
+
+Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ### Cosmos SDK Developer
 We're looking for a Golang developer who's used the Cosmos SDK before, or interested in learning. You'll work closely with the Cosmos SDK development team and our Backend Developer to build applications powered by the Cosmos SDK.
@@ -78,18 +90,6 @@ We're looking for a Golang developer who's used the Cosmos SDK before, or intere
 * 1+ years in Cosmos SDK development
 * Significant experience writing Golang
 * Great communication skills
-* Exceptional written and oral communication skills
-* Experience working with distributed teams
-
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
-
-### Backend Developer
-
-We're looking for a backend developer with in-depth knowledge of databases. You'll work closely with the Cosmos SDK Developer and our Frontend Developer us to build a data store for the Virgo web application.
-
-#### We're looking for
-* 3+ years in backend development
-* Extensive experience with databases: SQL, noSQL, GraphQL
 * Exceptional written and oral communication skills
 * Experience working with distributed teams
 
