@@ -66,14 +66,37 @@ The Virgo Software team works on solving coordination through user-friendly orga
 ### Cosmos SDK Developer
 We're looking for a Golang developer who's used the Cosmos SDK before, or interested in learning. You'll work with us to build the backend for front-ends to the Virgo community application.
 
+#### Requirements
+* 2+ years experience in blockchain technologies
+* 1+ year in Cosmos SDK development
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
-### Web App Developer
-We're looking a talented web application developer to spearhead the Virgo web application. You'll work closely with our UI/UX designer to build the interface for mobile and web, as well as collaborate with the Cosmos SDK developer on backend features.
+### Backend Developer
+
+We're looking for a backend developer with in-depth knowledge of databases. You'll work closely with the Cosmos SDK Developer and our Frontend Developer us to build a data store for the Virgo web application.
+
+#### Requirements
+* 3+ years in backend development
+* Extensive experience with databases: SQL, noSQL, GraphQL
+
+Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
+
+### Frontend Web Developer
+We're looking a talented frontend web developer to spearhead the Virgo web application. You'll work closely with our UI/UX designer to build the interface for mobile and web, as well as collaborate with the Cosmos SDK developer on backend features.
+
+#### Requirements
+* 3+ years in frontend development
+* Extensive experience with web technologies: HTML, CSS, JavaScript
+* Bonus: experience with React Native or mobile application development
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ### UI/UX Designer
 We're looking for an ambitious UI/UX designer to help us research and design the next generation of organization management tools.
+
+#### Requirements
+* 3+ years in UI/UX design
+* Familarity with UI design tools like Figma, Sketch, Framer, Whimsical, etc.
+* Bonus: experience with web technologies: HTML, CSS, JavaScript
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
