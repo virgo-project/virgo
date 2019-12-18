@@ -4,6 +4,13 @@ Virgo is a community-run project and needs your skills to get started! Here are 
 
 If you're interested in being a part of Virgo, please [join us on the forum](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54). And tell us about yourself!
 
+## What we offer
+* The opportunity to directly improve the world through your actions
+* A free and flexible work schedule
+* Excellent benefits like educational budget, fitness and wellbeing spend
+* At least four weeks of paid vacation
+* Competitive salary package, including equity
+
 ## Virgo Communications
 The Virgo Communications team works hard to communicate about the project through text, graphics, animation, and video to the worldwide community.
 
@@ -66,27 +73,35 @@ The Virgo Software team works on solving coordination through user-friendly orga
 ### Cosmos SDK Developer
 We're looking for a Golang developer who's used the Cosmos SDK before, or interested in learning. You'll work with us to build the backend for front-ends to the Virgo community application.
 
-#### Requirements
+#### We're looking for
 * 2+ years experience in blockchain technologies
 * 1+ year in Cosmos SDK development
+* Great communication skills
+* Exceptional written and oral communication skills
+* Experience working with distributed teams
+
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ### Backend Developer
 
 We're looking for a backend developer with in-depth knowledge of databases. You'll work closely with the Cosmos SDK Developer and our Frontend Developer us to build a data store for the Virgo web application.
 
-#### Requirements
+#### We're looking for
 * 3+ years in backend development
 * Extensive experience with databases: SQL, noSQL, GraphQL
+* Exceptional written and oral communication skills
+* Experience working with distributed teams
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ### Frontend Web Developer
 We're looking a talented frontend web developer to spearhead the Virgo web application. You'll work closely with our UI/UX designer to build the interface for mobile and web, as well as collaborate with the Cosmos SDK developer on backend features.
 
-#### Requirements
+#### We're looking for
 * 3+ years in frontend development
 * Extensive experience with web technologies: HTML, CSS, JavaScript
+* Exceptional written and oral communication skills
+* Experience working with distributed teams
 * Bonus: experience with React Native or mobile application development
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
@@ -94,9 +109,11 @@ Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining
 ### UI/UX Designer
 We're looking for an ambitious UI/UX designer to help us research and design the next generation of organization management tools.
 
-#### Requirements
+#### We're looking for
 * 3+ years in UI/UX design
 * Familarity with UI design tools like Figma, Sketch, Framer, Whimsical, etc.
 * Bonus: experience with web technologies: HTML, CSS, JavaScript
+* Exceptional written and oral communication skills
+* Experience working with distributed teams
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
