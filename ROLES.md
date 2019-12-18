@@ -71,11 +71,12 @@ Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining
 The Virgo Software team works on solving coordination through user-friendly organization-level tools.
 
 ### Cosmos SDK Developer
-We're looking for a Golang developer who's used the Cosmos SDK before, or interested in learning. You'll work with us to build the backend for front-ends to the Virgo community application.
+We're looking for a Golang developer who's used the Cosmos SDK before, or interested in learning. You'll work closely with the Cosmos SDK development team and our Backend Developer to build applications powered by the Cosmos SDK.
 
 #### We're looking for
 * 2+ years experience in blockchain technologies
-* 1+ year in Cosmos SDK development
+* 1+ years in Cosmos SDK development
+* Significant experience writing Golang
 * Great communication skills
 * Exceptional written and oral communication skills
 * Experience working with distributed teams
