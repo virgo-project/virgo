@@ -29,7 +29,7 @@ This role is for an individual or team who can help with animation, motion desig
 
 Status: 50% fulfilled
 
-### Web Developer
+### Frontend Web Developer
 We're looking for a web developer to help us build and maintain the Virgo website. This person will work closely within our Community team to onboard as many interested people as possible to Virgo.
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
@@ -94,7 +94,7 @@ We're looking for a backend developer with in-depth knowledge of databases. You'
 
 Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
-### Frontend Web Developer
+### Frontend App Developer
 We're looking a talented frontend web developer to spearhead the Virgo web application. You'll work closely with our UI/UX designer to build the interface for mobile and web, as well as collaborate with the Cosmos SDK developer on backend features.
 
 #### We're looking for
