@@ -138,3 +138,21 @@ Each DAOs is responsible for maintaining the privacy of its members, if any.
 
 The UDV DAO Congress is responsible for ensuring that one natural person gets one
 vote.
+
+
+### Virgo Services
+
+Virgo Services is a DAO that provides services to the community. One such
+service is offered by forum.virgo.org, which hosts community forums.
+
+NOTE: Assets like domain names and any physical assets are held by external
+entities, with at least reputation at stake, but often tokens as well.
+
+NOTE: here are some communities to be funded by Virgo Services:
+
+- Virgo/OpenLibra
+- Orion (TODO)
+- IBC Working Group (TODO)
+- Tendermint Working Group (TODO)
+
+TODO: Link to site that shows communities.
