@@ -7,9 +7,10 @@
       <!--<a href="/about/BYLAWS">Bylaws</a>
       <!--<a href="/about/GLOSSARY">Glossary</a>-->
       <!--<a href="./LAWS">Laws</a>-->
-      <a href="./about/UDV">UDV</a>
-      <a href="./about/roles">Roles</a>
-      <!--<a href="/about/FUNDING">Donate</a>-->
+      <a href="/about/UDV.html">About</a>
+      <a href="/about/FUNDING.html">Donate</a>
+      <a href="/about/ROLES.html">Roles</a>
+      <!--<a href="./Owners">Owners</a>-->
       <a
         href="https://forum.virgo.org"
         target="_blank"

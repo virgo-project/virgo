@@ -255,37 +255,9 @@ Virgo is an IDEA and BRAND of decentralized, transparent, accountable Human Coor
 Virgo as a BRAND is managed by a DAO called the United DAOs of Virgo, or UDV
 for short.
 
-## Virgo Services
-
-Virgo Services is a DAO that provides services to the community. One such
-service is offered by forum.virgo.org, which hosts community forums.
-
-NOTE: Assets like domain names and any physical assets are held by external
-entities, with at least reputation at stake, but often tokens as well.
-
-NOTE: here are some communities to be funded by Virgo Services:
-
-- Virgo/OpenLibra
-- Orion (TODO)
-- IBC Working Group (TODO)
-- Tendermint Working Group (TODO)
-
-TODO: Link to site that shows communities.
-
 # Resources
 
 - [forums](https://forum.virgo.org)
 - [funding](/FUNDING.md)
 - [unsorted](/UNSORTED.md)
 - [glossary](/GLOSSARY.md)
-
-# Plan
-
-- Write More
-- Construct Operations Team
-- Constitutional Convention
-- Define First Milestone
-- Define up to Last Milestone
-- Calculate Responsible Funding Limitations
-- Propose Multiple Funding Models
-- TODO
