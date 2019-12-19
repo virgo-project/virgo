@@ -8,7 +8,7 @@
       <!--<a href="/about/GLOSSARY">Glossary</a>-->
       <!--<a href="./LAWS">Laws</a>-->
       <!--<a href="./Owners">Owners</a>-->
-      <a href="/about/UDV">About UDV</a>
+      <a href="/about/UDV.html">About UDV</a>
       <a
         href="https://forum.virgo.org"
         target="_blank"
