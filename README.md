@@ -215,14 +215,9 @@ When all of these new systems work together to heal the planet and our sense of 
 bound by love,
 not hate and fear.
 
-# Resources
+# What is Virgo?
 
-- [forums](https://forum.virgo.org)
-- [funding](/FUNDING.md)
-- [unsorted](/UNSORTED.md)
-- [glossary](/GLOSSARY.md)
-
-## Virgo is an idea
+## Virgo is an IDEA
 
 "Permit me to issue and control the money of a nation, and I care not who makes
 its laws!" - Mayer Amschel Rothschild
@@ -240,7 +235,7 @@ We believe that global coordination tools can be made by following the virtues
 of openness and accountability, stemming from a kind of radical transparency; and
 by drawing from lessons from history of our financial and sociological systems.
 
-## Virgo is a brand
+## Virgo is a BRAND
 
 "The European Commission is "currently investigating potential anti-competitive
 behavior" related to the Libra Association amid concerns the proposed payment
@@ -259,3 +254,10 @@ Virgo is an IDEA and BRAND of decentralized, transparent, accountable Human Coor
 
 Virgo as a BRAND is managed by a DAO called the United DAOs of Virgo, or UDV
 for short.
+
+# Resources
+
+- [forums](https://forum.virgo.org)
+- [funding](/FUNDING.md)
+- [unsorted](/UNSORTED.md)
+- [glossary](/GLOSSARY.md)
