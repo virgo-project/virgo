@@ -155,4 +155,4 @@ NOTE: here are some communities to be funded by Virgo Services:
 - IBC Working Group (TODO)
 - Tendermint Working Group (TODO)
 
-TODO: Link to site that shows communities.
+We're starting to build Virgo DAOs. Join us [on the forum](https://forum.virgo.org).
