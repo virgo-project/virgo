@@ -14,25 +14,17 @@ If you're interested in being a part of Virgo, please [join us on the forum](htt
 ## Virgo Communications
 The Virgo Communications team works hard to communicate about the project through text, graphics, animation, and video to the worldwide community.
 
-### Community Manager
+### Community Manager (50% fulfilled)
 We're looking for a dedicated community manager to help us run communications via our social media channels, as well as help moderate the Virgo Forum.
-
-Status: 50% fulfilled
 
 ### Frontend Web Developer
 We're looking for a web developer to help us build and maintain the Virgo website. This person will work closely within our Community team to onboard as many interested people as possible to Virgo.
 
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
-
 ### Graphic Designer
 This role is for a highly talented graphic designer who help us brand and create visuals for the Virgo project.
 
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
-
-### Video Producer
+### Video Producer (50% fulfilled)
 This role is for an individual or team who can help with animation, motion design, and videos to communicate about for the Virgo project.
-
-Status: 50% fulfilled
 
 ## Virgo Community
 The Virgo Community team works on outreach, networking, and relationship-building with other organizations that have a shared vision of a more sustainable future.
@@ -40,17 +32,11 @@ The Virgo Community team works on outreach, networking, and relationship-buildin
 ### APAC Partnerships Manager
 This talented individual helps us connect and network with governments and organizations in Asia Pacific and Japan.
 
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
-
-### EMEA Partnerships Manager
+### EMEA Partnerships Manager (fulfilled)
 This talented individual helps us connect and network with governments and organizations in Europe, Middle East, and Africa.
 
-Status: Fulfilled
-
-### NCSA Partnerships Manager
+### NCSA Partnerships Manager 
 This talented individual helps us connect and network with governments and organizations in North, Central and South America.
-
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ## Virgo Devices
 The Virgo Devices team works on solving the difficult problem of performant open hardware. The team is focused on bringing open hardware concepts from prototype to production.
@@ -58,20 +44,20 @@ The Virgo Devices team works on solving the difficult problem of performant open
 ### Hardware Developer
 We're interested in the idea of researching and building an open, uncensorable alternative to mobile phones and/or laptops. We're open to partnering with such a team too.
 
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
-
 ## Virgo Finance
 The Virgo Finance team works to solve long-standing financial issues that plague the world economy.
 
 ### Finance Engineer
 
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
+## Virgo Governance
+The Virgo Governance team works on solving problems related to distributed governance. 
+
+### Governance Researcher (fufilled)
 
 ## Virgo Software
 The Virgo Software team works on solving human coordination through user-friendly organization-level applications.
 
 ### Backend Developer
-
 We're looking for a backend developer with in-depth knowledge of databases. You'll work closely with the Cosmos SDK Developer and our Frontend Developer us to build a data store for the Virgo web application.
 
 #### We're looking for
@@ -79,8 +65,6 @@ We're looking for a backend developer with in-depth knowledge of databases. You'
 * Extensive experience with databases: SQL, noSQL, GraphQL
 * Exceptional written and oral communication skills
 * Experience working with distributed teams
-
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
 
 ### Cosmos SDK Developer
 We're looking for a Golang developer who's used the Cosmos SDK before, or interested in learning. You'll work closely with the Cosmos SDK development team and our Backend Developer to build applications powered by the Cosmos SDK.
@@ -93,9 +77,8 @@ We're looking for a Golang developer who's used the Cosmos SDK before, or intere
 * Exceptional written and oral communication skills
 * Experience working with distributed teams
 
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
+### Frontend Web/Mobile Developer
 
-### Frontend App Developer
 We're looking a talented frontend web developer to spearhead the Virgo web application. You'll work closely with our UI/UX designer to build the interface for mobile and web, as well as collaborate with the Cosmos SDK developer on backend features.
 
 #### We're looking for
@@ -105,10 +88,9 @@ We're looking a talented frontend web developer to spearhead the Virgo web appli
 * Experience working with distributed teams
 * Bonus: experience with React Native or mobile application development
 
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
+### Product Designer
 
-### UI/UX Designer
-We're looking for an ambitious UI/UX designer to help us research and design the next generation of organization management tools.
+We're looking for an ambitious product designer to help us research and design the next generation of organization management tools.
 
 #### We're looking for
 * 3+ years in UI/UX design
@@ -117,4 +99,5 @@ We're looking for an ambitious UI/UX designer to help us research and design the
 * Exceptional written and oral communication skills
 * Experience working with distributed teams
 
-Status: [Accepting applications](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
+## Create an application
+Interested in any of the above positions? [Apply by creating a post on the forum.](https://forum.virgo.org/t/interested-in-joining-the-virgo-team/54)
