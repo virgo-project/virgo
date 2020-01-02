@@ -7,8 +7,10 @@
       <!--<a href="/about/BYLAWS">Bylaws</a>
       <!--<a href="/about/GLOSSARY">Glossary</a>-->
       <!--<a href="./LAWS">Laws</a>-->
+      <a href="/about/UDV.html">About</a>
+      <a href="/about/FUNDING.html">Donate</a>
+      <a href="/about/ROLES.html">Roles</a>
       <!--<a href="./Owners">Owners</a>-->
-      <a href="/about/UDV.html">About UDV</a>
       <a
         href="https://forum.virgo.org"
         target="_blank"
@@ -23,7 +25,7 @@
         rel="noreferrer noopener"
       >
         <img src="../images/github.svg" />
-        Contribute
+        GitHub
       </a>
     </nav>
   </div>
@@ -72,7 +74,7 @@ export default {
   a
     line-height 1.125rem
     font-size 0.75rem
-    width 50%
+    width 33.33%
     display flex
     align-items center
     img
@@ -80,7 +82,7 @@ export default {
       height 0.75rem
       margin-right 0.375rem
 
-@media screen and (min-width: 768px)
+@media screen and (min-width: 1024px)
   #site-header
     padding 0 12.5%
 
@@ -88,19 +90,11 @@ export default {
     padding 0
 
   #site-nav
-
     flex 2
+    flex-flow row nowrap
+    justify-content space-between
     a
-      flex 1
-      font-size 0.875rem
-      width 100%
-      img
-        width 0.875rem
-        height 0.875rem
-
-@media screen and (min-width: 1024px)
-  #site-nav
-    a
+      width auto
       font-size 1rem
       img
         width 1rem
