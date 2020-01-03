@@ -29,6 +29,6 @@
     "vuepress": "^1.2.0"
   },
   "dependencies": {
-    "@cosmos-ui/vue": "^0.5.16"
+    "@cosmos-ui/vue": "^0.5.19"
   }
 }
