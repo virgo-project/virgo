@@ -1,38 +1,6 @@
 # The United DAOs of Virgo
 
-The United DAOs of Virgo (UDV) is a DAO.
-It is connected to many other associated DAOs.
-
-## UDV Core Values
-
-- Transparent.
-- Accountable.
-- No Lock-in.
-- Voluntary.
-- Environmental.
-- Democratic.
-- Secure.
-
-## UDV Mission
-
-The UDV's mission is to make freely available the best protocols, software, and
-hardware for decentralized finance, social/communications, and advanced human
-coordination technology.
-
-Virgo will develop and recommend:
-
-- the best protocols that balance transparency and privacy
-- the best social and communications protocols that are truly open and decentralized
-- the best financial system for sustainable development with more legitimacy
-- the best platform for intelligent collective decision making at all scales
-
-## UDV Vision
-
-The UDV's vision is to provide the world with the best open collaboration
-technology. The UDV aims to use this new foundation to help solve the world's
-greatest challenges, such as preventing catastrophic climate change and
-environmental destruction, and providing for the basic human needs of members
-across the globe.
+The United DAOs of Virgo (UDV) is a DAO. It is connected to many other associated DAOs.
 
 ## UDV Composition
 
@@ -138,7 +106,6 @@ Each DAOs is responsible for maintaining the privacy of its members, if any.
 
 The UDV DAO Congress is responsible for ensuring that one natural person gets one
 vote.
-
 
 ### Virgo Services
 

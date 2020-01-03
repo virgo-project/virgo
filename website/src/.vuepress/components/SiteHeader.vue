@@ -7,8 +7,8 @@
       <!--<a href="/about/BYLAWS">Bylaws</a>
       <!--<a href="/about/GLOSSARY">Glossary</a>-->
       <!--<a href="./LAWS">Laws</a>-->
-      <a href="/about/UDV.html">About</a>
-      <a href="/about/FUNDING.html">Donate</a>
+      <a href="/about/ABOUT.html">About</a>
+      <a href="/about/UDV.html">UDV</a>
       <a href="/about/ROLES.html">Roles</a>
       <!--<a href="./Owners">Owners</a>-->
       <a
