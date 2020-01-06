@@ -1,5 +1,6 @@
 <template>
   <div>
+    <cookie-banner />
     <modal
       :visible="video"
       @input="video = null"
@@ -48,10 +49,11 @@
 </template>
 
 <script>
-import { Modal } from "@cosmos-ui/vue";
+import { Modal, CookieBanner } from "@cosmos-ui/vue";
 export default {
   components: {
-    Modal
+    Modal,
+    CookieBanner
   },
   data: () => ({
     video: null
