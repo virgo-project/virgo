@@ -2,31 +2,32 @@
   <div id="site-header">
     <a id="site-logo" href="/">Virgo</a>
     <nav id="site-nav">
-      <a href="/about">Manifesto</a>
+      <!--<a href="/about">Manifesto</a>-->
       <!--<a href="/about/BOARD">Board</a>-->
       <!--<a href="/about/BYLAWS">Bylaws</a>
       <!--<a href="/about/GLOSSARY">Glossary</a>-->
       <!--<a href="./LAWS">Laws</a>-->
       <a href="/about/ABOUT.html">About</a>
       <a href="/about/UDV.html">UDV</a>
-      <a href="/about/ROLES.html">Roles</a>
+      <a href="/about/FUNDING.html">Donate</a>
+      <a href="/about/ROLES.html">Volunteer</a>
       <!--<a href="./Owners">Owners</a>-->
       <a
         href="https://forum.virgo.org"
         target="_blank"
         rel="noreferrer noopener"
       >
-        <img src="../images/discourse.svg" />
         Discuss
       </a>
+      <!--
       <a
         href="https://github.com/virgo-project/virgo"
         target="_blank"
         rel="noreferrer noopener"
       >
-        <img src="../images/github.svg" />
         GitHub
       </a>
+      -->
     </nav>
   </div>
 </template>
@@ -60,6 +61,8 @@ export default {
   line-height 3rem
   padding 0 1rem
   font-weight bold
+  font-size 1.125rem
+  letter-spacing -0.1em
   font-family var(--sans)
   text-transform uppercase
   flex 1
@@ -77,10 +80,6 @@ export default {
     width 33.33%
     display flex
     align-items center
-    img
-      width 0.75rem
-      height 0.75rem
-      margin-right 0.375rem
 
 @media screen and (min-width: 1024px)
   #site-header
@@ -96,7 +95,4 @@ export default {
     a
       width auto
       font-size 1rem
-      img
-        width 1rem
-        height 1rem
 </style>
