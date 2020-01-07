@@ -38,7 +38,7 @@
         <div class="vg-btns">
           <a class="vg-btn vg-btn__primary" @click="video = true"
             >Watch video
-            <img src="../../images/play.svg" />
+            <img src="../../images/feather/white/play.svg" />
           </a>
           <a class="vg-btn" href="/about">Read it</a>
         </div>
