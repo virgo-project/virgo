@@ -48,10 +48,10 @@
         <a
           target="_blank"
           rel="noreferrer noopener"
-          href="https://github.com/virgo-project"
+          href="https://forum.virgo.org"
         >
           <img src="../images/feather/white/discourse.svg" />
-          <div class="label">Forum</div>
+          <div class="label">Discourse</div>
         </a>
       </div>
       <p>&copy; Virgo 2019&mdash;</p>
