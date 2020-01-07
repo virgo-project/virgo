@@ -14,17 +14,14 @@ If you're interested in being a part of Virgo, please [join us on the forum](htt
 ## Virgo Communications
 The Virgo Communications team works hard to communicate about the project through text, graphics, animation, and video to the worldwide community.
 
-### Community Manager (50% fulfilled)
-We're looking for a dedicated community manager to help us run communications via our social media channels, as well as help moderate the Virgo Forum.
-
-### Frontend Web Developer
-We're looking for a web developer to help us build and maintain the Virgo website. This person will work closely within our Community team to onboard as many interested people as possible to Virgo.
+### Copywriter
+We're looking for a dedicated copywriter/journalist to help us write about the environment, politics, and how it ties to Virgo.
 
 ### Graphic Designer
 This role is for a highly talented graphic designer who help us brand and create visuals for the Virgo project.
 
-### Video Producer (50% fulfilled)
-This role is for an individual or team who can help with animation, motion design, and videos to communicate about for the Virgo project.
+### Motion Designer
+This role is for an individual who can help with animation, motion design, and videos to communicate the Virgo project.
 
 ## Virgo Community
 The Virgo Community team works on outreach, networking, and relationship-building with other organizations that have a shared vision of a more sustainable future.
