@@ -6,10 +6,10 @@
   "scripts": {
     "serve": "vuepress dev src --no-cache",
     "buildsite": "vuepress build src",
-    "copyindex": "cd .. && npx copyfiles -f *.md website/src/about",
-    "copyresearch": "cd .. && npx copyfiles -f Virgo_Finance/*.md website/src/finance",
-    "copyfinance": "cd .. && npx copyfiles -f research/*.md website/src/research",
-    "copy": "npm run copyindex && npm run copyresearch && npm run copyfinance",
+    "copyindex": "cd ../../../ && npx copyfiles -f *.md Teams/Communications/website/src/about",
+    "copyfinance": "cd ../../ && npx copyfiles -f Finance/*.md Teams/Communications/website/src/finance",
+    "copyresearch": "cd ../../../ && npx copyfiles -f research/*.md Teams/Communications/website/src/research",
+    "copy": "npm run copyindex && npm run copyfinance && npm run copyresearch",
     "build": "npm run copy && npm run buildsite"
   },
   "repository": {
