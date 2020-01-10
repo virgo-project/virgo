@@ -6,6 +6,6 @@ date: 2020-01-09
 
 # Hello World
 
-Welcome to the official Virgo blog. This will be the official source for Virgo announcements, as well as serve to inform the world on the state of climate change and global warming. In the coming weeks, we'll approach writers that care deeply about the environment and ask them to write for Virgo.
+Welcome to the official Virgo blog! This will be a place to report on solveable issues and crisies that affect not just humanity, but also ecology and the environment. This will also be the official source for Virgo announcements.  In the coming weeks, we'll approach writers that care deeply about world problems and ask them to write for us.
 
 Thanks for being our audience, and please enjoy the upcoming content!
