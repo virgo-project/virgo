@@ -6,8 +6,8 @@
   </div>
 </template>
 
-<style>
-@import "../../styles/normalize.css";
-@import "../../styles/variables.css";
-@import "../../styles/screen.css";
+<style lang="stylus">
+@require "../../styles/normalize"
+@require "../../styles/variables"
+@require "../../styles/screen"
 </style>
