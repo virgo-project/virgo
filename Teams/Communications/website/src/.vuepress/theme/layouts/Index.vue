@@ -40,7 +40,13 @@
             >Watch video
             <img src="../../images/feather/white/play.svg" />
           </a>
-          <a class="vg-btn" href="/about">Read it</a>
+          <a
+            class="vg-btn"
+            href="https://discord.gg/Y7E5hwj"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Chat on Discord</a
+          >
         </div>
       </div>
     </div>
