@@ -154,7 +154,7 @@ and also designed to enable our long term happiness and well-being.
 When our mobile and desktop devices are completely open and Free designs,
 such that anyone could manufacture them,
 and that we can know with near certainty that our devices in our hands
-are secure and not compromised.
+are secure and not compromised by any authority.
 
 When open and Free hardware is produced in volumes large enough
 to lower its cost and increase its quality.
