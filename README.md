@@ -4,7 +4,8 @@ We are surrounded by fire.
 
 When you follow the news and reports,
 you find that there is little hope for our future
-and the future of our children.
+and the future of our children, or that we're on
+the cusp of the greatest times for humanity.
 
 The system that we have inherited and co-created
 has become unsustainable.
@@ -20,14 +21,12 @@ For the sake of consumption powered by capitalism.
 Capitalism is combustion.
 One's superior ability to accumulate capital
 begets more capital exponentially.
-Capitalism is the most magnificent fire that is engulfing this planet today.
+Capitalism is a most magnificent fire that is engulfing our planet.
 
 Power begets power,
 oil begets oil,
 and when left unchecked,
 capitalism extinguishes itself.
-
-(do we really need to be eating cows?)
 
 When the power of combustion is harnessed in a macro-economic design
 to bring sustenance and harmony and balance
@@ -76,7 +75,7 @@ and communicate at the speed of light,
 to reimagine where we as a collective society
 decide to devote our collective focus and power.
 
-And by the nature of free, voluntary trade using our tools,
+By the nature of free, voluntary trade,
 we can make this transition entirely peaceful,
 to synthesize a new beginning
 that transcends the false duality of capitalism vs socialism.
@@ -100,7 +99,8 @@ responsible for the exploitation of people,
 and our natural resources.
 
 the relentless struggle to obtain more,
-driven by capitalist ideals,
+weather driven by capitalist ideals --
+or by production quotas,
 and exploited by profit mongers,
 causing us people to lose sense of what it means to be human.
 
@@ -117,7 +117,7 @@ We must not compromise on our core values.
 Of transparency, accountability, individual freedom and,
 not just of sustainability, but of regenerative environmental integration,
 (for we are tenders of the earth),
-and of democracy and equality,
+of democracy and equality,
 and of open mindedness.
 
 By fully committing to our common core values,
@@ -151,10 +151,13 @@ When the protocols are well designed enough for multiple implementations to comp
 to provide constructive dialog & information discovery,
 and also designed to enable our long term happiness and well-being.
 
-When our mobile and desktop devices are completely open and free designs,
+When our mobile and desktop devices are completely open and Free designs,
 such that anyone could manufacture them,
 and that we can know with near certainty that our devices in our hands
-are secure and not compromised by any authority.
+are secure and not compromised.
+
+When open and Free hardware is produced in volumes large enough
+to lower its cost and increase its quality.
 
 When the world has become so saturated with open source,
 when it becomes the norm,
@@ -224,6 +227,8 @@ its laws!" - Mayer Amschel Rothschild
 
 "If we don’t take action, the collapse of our civilizations and the extinction
 of much of the natural world is on the horizon.” - Sir David Attenborough
+
+"Big Brother is Watching You." - George Orwell, 1984
 
 Our social-communications/financial/governance systems must be designed to help
 us coordinate better to solve the world's biggest challenges.
