@@ -36,6 +36,7 @@ export default {
   flex 1
   padding 3rem 1rem
   margin-top 3rem
+
 p.meta
   color var(--dim)
   font-style italic

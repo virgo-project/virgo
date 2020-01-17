@@ -42,7 +42,7 @@ module.exports = {
           {
             id: "story", // Unique ID of current classification
             dirname: "stories", // Target directory
-            path: "/stories", // Path of the `entry page` (or `list page`)
+            path: "/stories", // Path of the blog
             layout: "Stories",
             itemLayout: "Story",
             itemPermalink: "/stories/:slug"
