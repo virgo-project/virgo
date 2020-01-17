@@ -43,7 +43,7 @@
             href="https://discord.gg/Y7E5hwj"
             target="_blank"
             rel="noopener noreferrer"
-            >Chat on Discord</a
+            >Join chat</a
           >
         </div>
       </div>

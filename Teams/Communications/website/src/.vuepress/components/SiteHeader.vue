@@ -2,14 +2,14 @@
   <div id="site-header">
     <a id="site-logo" href="/">Virgo</a>
     <nav id="site-nav">
-      <!--<a href="/about">Manifesto</a>-->
       <!--<a href="/about/BOARD">Board</a>-->
       <!--<a href="/about/BYLAWS">Bylaws</a>
       <!--<a href="/about/GLOSSARY">Glossary</a>-->
       <!--<a href="./LAWS">Laws</a>-->
       <a href="/about/ABOUT.html">About</a>
+      <a href="/about">Manifesto</a>
       <a href="/about/UDV.html">UDV</a>
-      <a href="/about/FUNDING.html">Donate</a>
+      <!--<a href="/about/FUNDING.html">Donate</a>-->
       <a href="/about/ROLES.html">Volunteer</a>
       <!--<a href="./Owners">Owners</a>-->
       <a
@@ -17,7 +17,7 @@
         target="_blank"
         rel="noreferrer noopener"
       >
-        Discuss
+        Forum
       </a>
       <!--
       <a

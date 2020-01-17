@@ -30,3 +30,7 @@ Virgo will develop and recommend:
 - Environmentalism
 - Democracy
 - Security
+
+## Manifesto
+
+Read the Virgo manifesto [here](README.md).
