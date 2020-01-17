@@ -7,9 +7,8 @@
     "serve": "vuepress dev src --no-cache",
     "buildsite": "vuepress build src",
     "copyindex": "cd ../../../ && npx copyfiles -f *.md Teams/Communications/website/src/about",
-    "copyfinance": "cd ../../ && npx copyfiles -f Finance/*.md Teams/Communications/website/src/finance",
     "copyresearch": "cd ../../../ && npx copyfiles -f research/*.md Teams/Communications/website/src/research",
-    "copy": "npm run copyindex && npm run copyfinance && npm run copyresearch",
+    "copy": "npm run copyindex && npm run copyresearch",
     "build": "npm run copy && npm run buildsite"
   },
   "repository": {
