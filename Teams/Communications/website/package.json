@@ -7,8 +7,9 @@
     "serve": "vuepress dev src --no-cache",
     "buildsite": "vuepress build src",
     "copyindex": "cd ../../../ && npx copyfiles -f *.md Teams/Communications/website/src/about",
+    "copyblog": "cd ../ && npx copyfiles -f blog/*.md Teams/Communications/website/src/blog",
     "copyresearch": "cd ../../../ && npx copyfiles -f research/*.md Teams/Communications/website/src/research",
-    "copy": "npm run copyindex && npm run copyresearch",
+    "copy": "npm run copyindex && copyblog && npm run copyresearch",
     "build": "npm run copy && npm run buildsite"
   },
   "repository": {
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/nylira/virgo#readme",
   "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.1",
     "@vuepress/plugin-google-analytics": "^1.2.0",
     "copyfiles": "^2.1.1",
     "npx": "^10.2.0",
