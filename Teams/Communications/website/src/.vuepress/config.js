@@ -40,14 +40,12 @@ module.exports = {
       {
         directories: [
           {
-            // Unique ID of current classification
-            id: "post",
-            // Target directory
-            dirname: "posts",
-            // Path of the `entry page` (or `list page`)
-            path: "/posts",
-            layout: "Posts",
-            itemLayout: "Post"
+            id: "story", // Unique ID of current classification
+            dirname: "stories", // Target directory
+            path: "/stories", // Path of the `entry page` (or `list page`)
+            layout: "Stories",
+            itemLayout: "Story",
+            itemPermalink: "/stories/:slug"
           }
         ]
       }
