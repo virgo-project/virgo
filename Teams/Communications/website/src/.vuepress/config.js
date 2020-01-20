@@ -34,6 +34,21 @@ module.exports = {
       {
         ga: "UA-51029217-9"
       }
+    ],
+    [
+      "@vuepress/blog",
+      {
+        directories: [
+          {
+            id: "story", // Unique ID of current classification
+            dirname: "_stories", // Target directory
+            path: "/stories/", // Path of the blog
+            layout: "Stories",
+            itemLayout: "Story",
+            itemPermalink: "/stories/:slug"
+          }
+        ]
+      }
     ]
   ]
 };

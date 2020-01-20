@@ -2,23 +2,24 @@
   <div id="site-header">
     <a id="site-logo" href="/">Virgo</a>
     <nav id="site-nav">
+      <a href="/about/ABOUT.html">About Virgo</a>
+      <a href="/about">Our Manifesto</a>
+      <a href="/stories">Read Stories</a>
+      <a href="/act">Take Action</a>
       <!--<a href="/about/BOARD">Board</a>-->
       <!--<a href="/about/BYLAWS">Bylaws</a>
       <!--<a href="/about/GLOSSARY">Glossary</a>-->
       <!--<a href="./LAWS">Laws</a>-->
-      <a href="/about/ABOUT.html">About</a>
-      <a href="/about">Manifesto</a>
-      <a href="/about/UDV.html">UDV</a>
+      <!--<a href="/about/UDV.html">UDV</a>-->
       <!--<a href="/about/FUNDING.html">Donate</a>-->
-      <a href="/about/ROLES.html">Volunteer</a>
       <!--<a href="./Owners">Owners</a>-->
-      <a
+      <!--<a
         href="https://forum.virgo.org"
         target="_blank"
         rel="noreferrer noopener"
       >
         Forum
-      </a>
+      </a>-->
       <!--
       <a
         href="https://github.com/virgo-project/virgo"
@@ -77,7 +78,7 @@ export default {
   a
     line-height 1.125rem
     font-size 0.75rem
-    width 33.33%
+    width 50%
     display flex
     align-items center
 

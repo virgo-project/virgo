@@ -40,10 +40,10 @@
           </a>
           <a
             class="vg-btn"
-            href="https://discord.gg/Y7E5hwj"
+            href="/act"
             target="_blank"
             rel="noopener noreferrer"
-            >Join chat</a
+            >Take action</a
           >
         </div>
       </div>
@@ -108,6 +108,7 @@ export default {
 
 .vg-btns
   display flex
+  flex-flow column nowrap
 
 .vg-btn
   font-family var(--sans)
@@ -122,6 +123,7 @@ export default {
   cursor pointer
   display flex
   align-items center
+  justify-content center
   &:hover
     opacity 0.85
   img
@@ -131,7 +133,7 @@ export default {
   background hsl(170,75%,40%)
 
 .vg-btn + .vg-btn
-  margin-left 1rem
+  margin-top 0.5rem
 
 @media (min-aspect-ratio: 16/9)
   #video-bg
@@ -142,6 +144,16 @@ export default {
   #video-bg
     width auto
     height 100%
+
+
+@media screen and (min-width: 375px)
+  .vg-btns
+    display flex
+    flex-flow row wrap
+
+  .vg-btn + .vg-btn
+    margin-left 1rem
+    margin-top 0
 
 @media screen and (min-width: 768px)
   .site-hero__text
