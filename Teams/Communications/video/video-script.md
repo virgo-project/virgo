@@ -2,7 +2,7 @@
 
 We are surrounded by fire.
 
-When you follow the news, you find that there is little hope for our future and the future of our children.
+When you follow the news, you find that there is little hope for our future.
 
 We are dealing with a set of unfolding tragedies: a deteriorating environment, a rapidly warming climate, and an economy on the verge of implosion.
 
