@@ -1,7 +1,7 @@
-#Virgo Hardware
+# Virgo Hardware
 NB: This document is still being revised and you're invited to revise it with us!
 
-###Why Build Open Hardware?
+### Why Build Open Hardware?
 
 Open hardware is an important next step for the Open Source / Open Culture movement, and an important next step towards free, open societies.  
 
@@ -33,7 +33,7 @@ And we'd love your help with this, and to help you with it, as well.
 
 
 
-###Our Products
+### Products
 
 All of our products will be 100% open source.  Open cores, open PCB Layout, open BOM.
 Since the design will be publicly available, any manufacturer with the right equipment should be able to build these.
@@ -84,19 +84,19 @@ This product will let everyone have a well-understood, community-designed, modul
 
 
 
-###Tracking
+### Tracking
 
 * Call with Dawn Song 1/20/2020
 
 
 
-###Hardware Of Interest
+### Hardware Of Interest
 
 Bumblebee GD32VF103 - need to determine if contains proprietary IP or not
 SiFive HiFive
 
 
-###Companies To Contact
+### Companies To Contact
 
 * SiFive
 * Open Source Ecology
