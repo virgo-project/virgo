@@ -30,6 +30,8 @@
   },
   "dependencies": {
     "@cosmos-ui/vue": "^0.5.19",
-    "date-fns": "^2.9.0"
+    "date-fns": "^2.9.0",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0"
   }
 }

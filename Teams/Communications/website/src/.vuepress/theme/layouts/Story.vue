@@ -1,18 +1,17 @@
-<template>
-  <div id="site">
-    <site-header />
-    <div id="story">
-      <h1>
-        {{ $frontmatter.title }}
-      </h1>
-      <p class="meta">
-        {{ timeAgo($frontmatter.date) }} ago by
-        {{ $frontmatter.author }}
-      </p>
-      <Content />
-    </div>
-    <site-footer />
-  </div>
+<template lang="pug">
+#site
+  site-header
+  article.story
+    h1 {{ $frontmatter.title }}
+    p.story-meta {{ timeAgo($frontmatter.date) }} ago by {{ $frontmatter.author }}
+    Content
+    .story-author
+      h3 About the author
+      p {{ $frontmatter.author }} - {{ $frontmatter.bio }}
+    .story-cta
+      h3 Seeking contributors
+      p We're looking for contributors to Virgo Stories! Do you have a story to tell about world issues? Submit your content to the #[a(href="https://forum.virgo.org/c/stories/11") Virgo Stories] section of our forum for a chance for visibility and recognition.
+  site-footer
 </template>
 
 <script>
@@ -32,19 +31,31 @@ export default {
 @require "../../styles/variables"
 @require "../../styles/screen"
 
-#story
+article.story
   flex 1
   padding 3rem 1rem
   margin-top 3rem
 
-p.meta
+.story-meta
   color var(--dim)
   font-style italic
   margin-bottom 1.5rem
   margin-top -0.5rem
 
+.story-author
+.story-cta
+  margin 1.5rem 0
+  padding 1.5rem 0
+
+.story-author
+  margin-top 3rem
+  border-top 1px solid var(--bc)
+
+.story-cta
+  border-top 2px solid var(--txt)
+
 @media screen and (min-width: 768px)
-  #story
+  article.story
     margin-left 12.5vw
     margin-right 12.5vw
     font-size 1.125rem
@@ -52,6 +63,6 @@ p.meta
     padding-right 0
 
 @media screen and (min-width: 1024px)
-  #story
+  article.story
     padding-left 25vw
 </style>
