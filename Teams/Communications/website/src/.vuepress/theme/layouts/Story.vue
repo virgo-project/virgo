@@ -1,20 +1,17 @@
 <template lang="pug">
 #site
   site-header
-    article.story
-      h1
-        | {{ $frontmatter.title }}
-      p.story-meta
-        | {{ timeAgo($frontmatter.date) }} ago by
-        | {{ $frontmatter.author }}
-      content
-        .story-author
-          h3 About the author
-          div(clas='bio') {{ $frontmatter.author }} - {{ $frontmatter.bio }}
-        .story-cta
-          h3 Seeking contributors
-          p We&apos;re looking for contributors to Virgo Stories! Do you have a story to tell about world issues? Submit your content to the #[a(href=&quot;https://forum.virgo.org/c/stories/11&quot;) Virgo Stories] section of our forum for a chance for visibility and recognition.
-    site-footer
+  article.story
+    h1 {{ $frontmatter.title }}
+    p.story-meta {{ timeAgo($frontmatter.date) }} ago by {{ $frontmatter.author }}
+    Content
+    .story-author
+      h3 About the author
+      p {{ $frontmatter.author }} - {{ $frontmatter.bio }}
+    .story-cta
+      h3 Seeking contributors
+      p We're looking for contributors to Virgo Stories! Do you have a story to tell about world issues? Submit your content to the #[a(href="https://forum.virgo.org/c/stories/11") Virgo Stories] section of our forum for a chance for visibility and recognition.
+  site-footer
 </template>
 
 <script>
