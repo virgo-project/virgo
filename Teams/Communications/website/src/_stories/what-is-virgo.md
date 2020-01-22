@@ -5,6 +5,8 @@ bio: We're a decentralized collective of people around the world who care about 
 date: 2020-01-22
 ---
 
+![Hands holding Earth](./what-is-virgo.jpg)
+
 What is wrong with the world? How did we end up developing a thick skin for the humanitarian and environmental crises around us? When did we decide to close our hearts and not care?
  
 Existential collapse threatens our society. But day after day, we carry on with business as usual. We ignore the truths before us because it's more convenient and more comfortable not to have to deal with it.
