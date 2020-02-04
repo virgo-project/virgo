@@ -1,7 +1,7 @@
-#Virgo Hardware
+# Virgo Hardware
 NB: This document is still being revised and you're invited to revise it with us!
 
-###Why Build Open Hardware?
+### Why Build Open Hardware?
 
 Open hardware is an important next step for the Open Source / Open Culture movement, and an important next step towards free, open societies.  
 
@@ -33,7 +33,7 @@ And we'd love your help with this, and to help you with it, as well.
 
 
 
-###Our Products
+### Products
 
 All of our products will be 100% open source.  Open cores, open PCB Layout, open BOM.
 Since the design will be publicly available, any manufacturer with the right equipment should be able to build these.
@@ -77,28 +77,36 @@ Here's a little of what that will take:
 This product will let everyone have a well-understood, community-designed, modular computer in their pocket.  
 
 
-
-  
-
-
-
-
-
-###Tracking
+### Tracking
 
 * Call with Dawn Song 1/20/2020
+* Contact Steven Zhao from Orange Pi 1/27/2020
+  * will follow up more after holidays
+* E-mail SiFive 1/27/2020
+
+
+### Hardware Of Interest
+
+[Bumblebee GD32VF103](https://www.gigadevice.com/products/microcontrollers/gd32/risc-v/) - need to determine if contains proprietary IP or not
+
+[SiFive HiFive Unleashed](https://www.sifive.com/boards/hifive-unleashed) - [No longer being produced](https://forums.sifive.com/t/any-hifive-unleashed-for-sale/3218)  Will be replaced with another product. Open source CPU, board design and manufacturing process.  Need to double-check that there's no proprietary IP in the u54 core.  
+
+[SiFive u54](https://sifive.cdn.prismic.io/sifive/8fdaed59-7bb6-445c-9d07-a60aab997cbe_sifive_coreip_U54_AXI4_rtl_v19_08p2p0_release_manual.pdf)
+
+[PinePhone](https://www.pine64.org/pinephone/) - proprietary CPU/GPU/baseband, open operating system.  Don't know the state of drivers yet. 
+
+[Purism Librem 5](https://puri.sm/products/librem-5/) - proprietary CPU/GPU/baseband, open operating system.  Don't know the state of drivers yet. 
 
 
 
-###Hardware Of Interest
-
-Bumblebee GD32VF103 - need to determine if contains proprietary IP or not
-SiFive HiFive
 
 
-###Companies To Contact
+
+### To Contact
 
 * SiFive
 * Open Source Ecology
 * Khadas
 * OrangePi
+* Raspberry Pi Foundation
+* Pinet64
