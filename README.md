@@ -99,14 +99,14 @@ responsible for the exploitation of people,
 and our natural resources.
 
 the relentless struggle to obtain more,
-weather driven by capitalist ideals --
+whether driven by capitalist ideals --
 or by production quotas,
 and exploited by profit mongers,
 causing us people to lose sense of what it means to be human.
 
 The racket of war,
 for oil and power,
-already disintegrating contentental unions.
+already disintegrating continental unions.
 
 And in the greatest superpowers we see,
 the tolerance and acceptance of darkness,
