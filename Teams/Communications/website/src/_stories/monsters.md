@@ -1,7 +1,6 @@
 ---
 title: "Take your hands off your eyes: a face-to-face with the new monsters"
-author: Daniela Pavin
-bio: If you’re looking for me, I got lost in the @Cosmos of PoS 👾 Gamer 👾 @CosmosGuardian ✨
+author: daniela
 date: 2020-02-06
 ---
 

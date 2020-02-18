@@ -3,11 +3,12 @@
   site-header
   article.story
     h1 {{ $frontmatter.title }}
-    p.story-meta {{ timeAgo($frontmatter.date) }} ago by {{ $frontmatter.author }}
+    p.story-meta {{ timeAgo($frontmatter.date) }} ago by #[a(:href="`https://twitter.com/${author.twitter}`" target="_blank" rel="noopener noreferrer") {{ author.name }}]
     Content
     .story-author
       h3 About the author
-      p {{ $frontmatter.author }} - {{ $frontmatter.bio }}
+      img(:src="authorImage")
+      p #[a(:href="`https://twitter.com/${author.twitter}`" target="_blank" rel="noopener noreferrer") {{ author.name }}] - {{ author.bio }}
     .story-cta
       h3 Seeking contributors
       p We're looking for contributors to Virgo Stories! Do you have a story to tell about world issues? Submit your content to the #[a(href="https://forum.virgo.org/c/stories/11") Virgo Stories] section of our forum for a chance for visibility and recognition.
@@ -16,8 +17,17 @@
 
 <script>
 import { formatDistance } from "date-fns";
+import authors from "../../authors.json";
 export default {
   name: "story",
+  computed: {
+    author() {
+      return authors[this.$frontmatter.author];
+    },
+    authorImage() {
+      return require(`../../images/authors/${this.$frontmatter.author}.jpg`);
+    }
+  },
   methods: {
     timeAgo(date) {
       return formatDistance(new Date(date), new Date());
@@ -50,8 +60,14 @@ article.story
 .story-author
   margin-top 3rem
   border-top 1px solid var(--bc)
+  img
+    float left
+    max-width 8rem
+    max-height 8rem
+    margin-right 1rem !important
 
 .story-cta
+  clear both
   border-top 2px solid var(--txt)
 
 @media screen and (min-width: 768px)

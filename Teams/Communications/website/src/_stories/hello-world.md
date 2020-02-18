@@ -1,7 +1,6 @@
 ---
 title: Hello World
-author: Peng Zhong
-bio: Based in Toronto, Peng is a regular contributor to Virgo. He is part of the team that maintains the Virgo website.
+author: peng
 date: 2020-01-09
 ---
 
