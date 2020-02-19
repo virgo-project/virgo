@@ -15,8 +15,8 @@ But the more I grew, the more I began to look around, the more I realized that m
 
 As a teenager, suddenly, I was put in front of new monsters, no longer confined in my room, but permeated in my life: floods, earthquakes, fires,…
 
-[**Italians Comb Through Rubble After Quake**
-*L’AQUILA, Italy — At twilight on Monday, seven wooden coffins lay on the ground under a gnarled tree in Onna, a tiny…*www.nytimes.com](https://www.nytimes.com/2009/04/07/world/europe/07italy.html)
+![**Italians Comb Through Rubble After Quake**
+*L’AQUILA, Italy — At twilight on Monday, seven wooden coffins lay on the ground under a gnarled tree in Onna, a tiny…*www.nytimes.com](https://static01.nyt.com/images/2009/04/06/world/quake_span_600.1.jpg)
 
 The phenomena described in the news were so great that they seemed invincible. So how to fight them? Impossible, I said to myself, the only thing I can do is cover my eyes and wait for them to leave as I did as a child with a blanket over my head.
 
@@ -24,8 +24,8 @@ And the years went by, with me turning every time these monsters passed by.
 
 I was in Monterosso in 2011 when a flood broke the lives of 13 people and wiped out everything.
 
-[**Cinque Terre: Flooding in 2011**
-*October 25, 2011 — this date will remain in the history of the Cinque Terre forever. That day, one of the most…*www.incinqueterre.com](https://www.incinqueterre.com/en/disaster-25-10-2011)
+![**Cinque Terre: Flooding in 2011**
+*October 25, 2011 — this date will remain in the history of the Cinque Terre forever. That day, one of the most…*www.incinqueterre.com](https://www.incinqueterre.com/photo/disaster_monterosso4_b1.jpg)
 
 I lived in the Cinque Terre when, every summer, more and more fires plagued the rolling hills surrounding the coast.
 
@@ -49,14 +49,13 @@ In Liguria, for decades man has artificially modified the bed of rivers and stre
 ![](https://cdn-images-1.medium.com/max/2000/1*FMdw2YVQNWaQ43wPIW7PcQ.jpeg)
 
 [The summer fires](https://www.researchgate.net/publication/307865503_The_4thOctober_2010_flash_flood_event_in_Genoa_Sestri_Ponente_Liguria_Italy). They have always existed, unlike what some claim, and their presence was a sign of rebirth because after each fire the earth returns more fertile than it was before, and new species settle, repopulating in a short time the area burnt by the flames. I highlight was, because now it is clear that the balance between death and rebirth is no longer respected.
+
 Too many fires, too voracious, too frequent.
 Look at what’s happening in Australia, for example:
 the hot periods are longer and more extreme, and there’s a greater drought that makes the soil and vegetation drier and more suitable for combustion.
 40 thousand square kilometers of forest burned in New South Wales alone, 50 thousand in total.
 Over 2,000 houses have been destroyed.
 25 people and 1 billion animals lost their lives, including 25,000 koalas, half the total local population of mammals.
-
-<iframe src="https://medium.com/media/b691a8a72c9878ae5872f4cac77aa02b" frameborder=0></iframe>
 
 Many, as I did as a child, prefer to simply cover their eyes. 
 Others, to minimize what is happening, persist in believing that all this is the result of some arsonist.
@@ -68,8 +67,8 @@ What can we say about what is happening in Venice, marked by a cruel destiny to 
 
 Here too there are many reasons given, including why the city is sitting on weak bases. Some scholars have measured that on average Venice sinks about two millimeters per year.
 
-[**Venice is sinking and this time it may go under**
-*David M. Perry says it’s not news that Venice is sinking — its mere existence in 2019 is a testament to the endurance…*edition.cnn.com](https://edition.cnn.com/2019/11/15/opinions/venice-is-sinking-may-go-under-perry/index.html)
+![**Venice is sinking and this time it may go under**
+*David M. Perry says it’s not news that Venice is sinking — its mere existence in 2019 is a testament to the endurance…*edition.cnn.com](https://cdn.cnn.com/cnnnext/dam/assets/191114160439-04-week-in-photos-1115-super-tease.jpg)
 
 But there is always a common constant, which links what is happening year after year makes it more and more difficult for species to survive on the planet. 
 Global warming.
@@ -78,9 +77,6 @@ Global warming.
 
 In this regard, the [Intergovernmental Panel](https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change) on Climate Change (IPCC) said:
 
-
-![](https://cdn-images-1.medium.com/max/2000/0*Lhob_tlE6Wa64u1u)
-
 [Average global temperatures from 2014 to 2018 compared to a baseline average from 1951 to 1980, according to NASA’s Goddard Institute for Space Studies](https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies)
 
 “It is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century”. 
@@ -88,8 +84,8 @@ The largest human influence has been the emission of greenhouse gases such as ca
 
 The [effects of global warming](https://climate.nasa.gov/causes/) include rising sea levels, regional changes in precipitation, more frequent extreme weather events such as heatwaves, and expansion of deserts.
 
-[**Data.GISS: GISS Surface Temperature Analysis (v4): Analysis Graphs and Plots**
-*This page is updated each month by an automatic procedure. Additional figures based on the GISTEMP analysis which…*data.giss.nasa.gov](https://data.giss.nasa.gov/gistemp/graphs_v4/)
+![**Data.GISS: GISS Surface Temperature Analysis (v4): Analysis Graphs and Plots**
+*This page is updated each month by an automatic procedure. Additional figures based on the GISTEMP analysis which…*data.giss.nasa.gov](https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/GISTEMP_Seasonal_Cycle_since_1880/graph.png)
 
 So now I look around me, astonished, incapable of believing that we ourselves and our blissful greed are the cause of the increase in death and destruction that are afflicting the planet.
 I reflect on this walking barefoot, on the beach that is so dear to me, with my ankles caressed by the waves.
@@ -99,9 +95,7 @@ And I realize that it’s not the monsters I’m most afraid of.
 
 But of mankind.
 
-![](https://cdn-images-1.medium.com/max/2000/0*XTh9g8lyjCpqHjjK)
-
-[@VirgoUDV - Plastic is a cheap product to manufacture, but it comes at such a high price to our environment. Yearly, 8 million tons of trash, mainly plastic, goes into the ocean and ends up in every bird, sea turtle or whale stomach](https://twitter.com/VirgoUDV/status/1221933894318075904)
+![@VirgoUDV - Plastic is a cheap product to manufacture, but it comes at such a high price to our environment. Yearly, 8 million tons of trash, mainly plastic, goes into the ocean and ends up in every bird, sea turtle or whale stomach](https://cdn-images-1.medium.com/max/2000/0*XTh9g8lyjCpqHjjK)
 
 I now have two paths in front of me:
 continue to hide my head under the covers, as I did when I was a child, or join Virgo and face openly what is eroding day after day our house, the earth.
