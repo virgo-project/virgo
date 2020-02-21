@@ -1,7 +1,8 @@
 ---
-title: What is Virgo?
 author: virgo
+cover: what-is-virgo
 date: 2020-01-22
+title: What is Virgo?
 ---
 
 ![Hands holding Earth](./what-is-virgo.jpg)

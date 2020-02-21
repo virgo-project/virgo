@@ -1,41 +1,23 @@
-<template>
-  <div id="site">
-    <site-header />
-    <div id="page-stories">
-      <h1>Virgo Stories</h1>
-      <p>Read the latest stories about Virgo.</p>
-      <div class="card-story" v-for="page in $pagination.pages">
-        <router-link class="page-link" :to="page.path">
-          <h2>
-            {{ page.title }}
-          </h2>
-          <p>
-            {{ timeAgo(page.frontmatter.date) }} ago by
-            {{ page.frontmatter.author }}
-          </p>
-        </router-link>
-      </div>
-    </div>
-    <div id="pagination">
-      <router-link v-if="$pagination.hasPrev" :to="$pagination.prevLink"
-        >Prev</router-link
-      >
-      <router-link v-if="$pagination.hasNext" :to="$pagination.nextLink"
-        >Next</router-link
-      >
-    </div>
-    <site-footer />
-  </div>
+<template lang="pug">
+#site
+  site-header
+  #page-stories
+    h1 Virgo Stories
+    p Welcome! Virgo Stories is a curated collection of articles written by the Virgo community. You can submit your article for inclusion on the #[a(href="https://forum.virgo.org") Virgo Forum].
+    card-story(v-for="page in $pagination.pages" :page="page")
+  #pagination
+    router-link(v-if="$pagination.hasPrev" :to="$pagination.prevLink") Prev
+    router-link(v-if="$pagination.hasNext" :to="$pagination.nextLink") Next
+  site-footer
 </template>
 
 <script>
 import { formatDistance } from "date-fns";
+import CardStory from "../../components/CardStory";
 export default {
   name: "stories",
-  methods: {
-    timeAgo(date) {
-      return formatDistance(new Date(date), new Date());
-    }
+  components: {
+    CardStory
   }
 };
 </script>
@@ -49,13 +31,6 @@ export default {
   flex 1
   padding 3rem 1rem
   margin-top 3rem
-
-.card-story
-  display block
-  h2
-    color var(--txt)
-  p
-    color var(--dim)
 
 @media screen and (min-width: 768px)
   #page-stories

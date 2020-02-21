@@ -7,24 +7,24 @@
     Content
     .story-author
       h3 About the author
-      img(:src="authorImage")
+      img(:src="authorImg")
       p #[a(:href="`https://twitter.com/${author.twitter}`" target="_blank" rel="noopener noreferrer") {{ author.name }}] - {{ author.bio }}
     .story-cta
       h3 Seeking contributors
-      p We're looking for contributors to Virgo Stories! Do you have a story to tell about world issues? Submit your content to the #[a(href="https://forum.virgo.org/c/stories/11") Virgo Stories] section of our forum for a chance for visibility and recognition.
+      p We're looking for contributors to #[router-link(to="/stories") Virgo Stories]! Do you have a story to tell about world issues? Submit your content to the #[a(href="https://forum.virgo.org/c/stories/11") Virgo Forum] for a chance for visibility and recognition.
   site-footer
 </template>
 
 <script>
 import { formatDistance } from "date-fns";
-import authors from "../../authors.json";
+import authors from "../../store/authors.json";
 export default {
   name: "story",
   computed: {
     author() {
       return authors[this.$frontmatter.author];
     },
-    authorImage() {
+    authorImg() {
       return require(`../../images/authors/${this.$frontmatter.author}.jpg`);
     }
   },

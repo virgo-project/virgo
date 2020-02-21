@@ -1,7 +1,8 @@
 ---
-title: "Take your hands off your eyes: a face-to-face with the new monsters"
 author: daniela
+cover: monsters
 date: 2020-02-06
+title: "Take your hands off your eyes: a face-to-face with the new monsters"
 ---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*sEZbaWs81DnVNK6rjh7_PQ.jpeg)

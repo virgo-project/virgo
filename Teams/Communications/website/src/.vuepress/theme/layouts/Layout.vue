@@ -1,9 +1,8 @@
-<template>
-  <div id="site">
-    <site-header />
-    <site-markdown />
-    <site-footer />
-  </div>
+<template lang="pug">
+#site
+  site-header
+  site-markdown
+  site-footer
 </template>
 
 <style lang="stylus">

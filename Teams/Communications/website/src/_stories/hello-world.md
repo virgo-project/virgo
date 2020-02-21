@@ -1,7 +1,8 @@
 ---
-title: Hello World
 author: peng
+cover: earth
 date: 2020-01-09
+title: Hello World
 ---
 
 ![A picture of Earth](./earth.jpg)
