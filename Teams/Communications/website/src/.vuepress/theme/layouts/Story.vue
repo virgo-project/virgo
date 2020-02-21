@@ -2,8 +2,9 @@
 #site
   site-header
   article.story
-    h1 {{ $frontmatter.title }}
-    p.story-meta {{ timeAgo($frontmatter.date) }} ago by #[a(:href="`https://twitter.com/${author.twitter}`" target="_blank" rel="noopener noreferrer") {{ author.name }}]
+    .page-header
+      h1 {{ $frontmatter.title }}
+      p {{ timeAgo($frontmatter.date) }} ago by #[a(:href="`https://twitter.com/${author.twitter}`" target="_blank" rel="noopener noreferrer") {{ author.name }}]
     Content
     .story-author
       h3 About the author

@@ -5,7 +5,7 @@ date: 2020-02-22
 title: "Take your hands off your eyes: a face-to-face with the new monsters"
 ---
 
-![Young Daniela](https://cdn-images-1.medium.com/max/2000/1*sEZbaWs81DnVNK6rjh7_PQ.jpeg)
+![Young Daniela](https://cdn-images-1.medium.com/max/2000/1*sEZbaWs81DnVNK6rjh7_PQ.jpeg#img-small)
 
 When I was a kid, I was afraid of monsters.
 So many things lurking in the dark, ready to devour me.
