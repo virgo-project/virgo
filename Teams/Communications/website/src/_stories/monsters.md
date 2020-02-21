@@ -1,11 +1,11 @@
 ---
 author: daniela
 cover: monsters
-date: 2020-02-06
+date: 2020-02-22
 title: "Take your hands off your eyes: a face-to-face with the new monsters"
 ---
 
-![](https://cdn-images-1.medium.com/max/2000/1*sEZbaWs81DnVNK6rjh7_PQ.jpeg)
+![Young Daniela](https://cdn-images-1.medium.com/max/2000/1*sEZbaWs81DnVNK6rjh7_PQ.jpeg)
 
 When I was a kid, I was afraid of monsters.
 So many things lurking in the dark, ready to devour me.
@@ -32,7 +32,7 @@ I lived in the Cinque Terre when, every summer, more and more fires plagued the 
 
 I was in Venice, my Venice, when the water level was rising more and more, destroying centuries of history and throwing the residents into the darkest despair.
 
-![](https://cdn-images-1.medium.com/max/2100/1*0inN81ADHDBULsAnBei3Wg.jpeg)
+![Venice flood](https://cdn-images-1.medium.com/max/2100/1*0inN81ADHDBULsAnBei3Wg.jpeg)
 
 And I, astonished and incredulous, during all this I could not find an explanation for what was happening.
 Monsters, I repeated myself.
@@ -47,7 +47,7 @@ And I understood.
 
 In Liguria, for decades man has artificially modified the bed of rivers and streams for his own convenience, then built houses and car parks to sell at a high price. The flood, which in recent years has become a recurrence and a scourge of these lands, was only formed by watercourses that wanted to take back what they had been for thousands of years.
 
-![](https://cdn-images-1.medium.com/max/2000/1*FMdw2YVQNWaQ43wPIW7PcQ.jpeg)
+![Liguria flood](https://cdn-images-1.medium.com/max/2000/1*FMdw2YVQNWaQ43wPIW7PcQ.jpeg)
 
 [The summer fires](https://www.researchgate.net/publication/307865503_The_4thOctober_2010_flash_flood_event_in_Genoa_Sestri_Ponente_Liguria_Italy). They have always existed, unlike what some claim, and their presence was a sign of rebirth because after each fire the earth returns more fertile than it was before, and new species settle, repopulating in a short time the area burnt by the flames. I highlight was, because now it is clear that the balance between death and rebirth is no longer respected.
 
@@ -107,4 +107,4 @@ But this time the monster is real.
 
 *So we can beat it. Together.*
 
-Join Virgo.
+[Join Virgo](/act).
