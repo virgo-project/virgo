@@ -1,6 +1,10 @@
 <template lang="pug">
 .card-project
-  .card-project__icon: slot(name="icon")
+  .card-project__icon
+    slot(name="icon")
+    div
+    div
+    div
   .card-project__text
     .card-project__title: slot(name="title")
     .card-project__description: slot
@@ -44,15 +48,27 @@ export default {
 .card-project__icon
   width 4rem
   height 4rem
-  border 1px solid var(--txt)
-  display flex
-  justify-content center
-  align-items center
+  background var(--txt)
   margin-bottom 1 rem
 
   font-family var(--sans)
-  font-size 2rem
+  font-size 1.5rem
+  line-height 1
   margin-right 1rem
+  display flex
+  flex-flow row wrap
+  div:first-child
+    background #fff
+  div
+    display flex
+    align-items center
+    justify-content center
+
+    width 50%
+    height 50%
+    border-bottom 1px solid var(--app-bg)
+    border-right 1px solid var(--app-bg)
+    background #eee
 
 @media screen and (min-width: 768px)
   .card-project
@@ -65,7 +81,7 @@ export default {
     margin-bottom 1rem
 
   .card-project__icon
+    font-size 2rem
     width 8rem
     height 8rem
-    font-size 3rem
 </style>

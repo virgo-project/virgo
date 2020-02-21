@@ -64,7 +64,7 @@ export default {
     font-size 1.5rem
     margin-bottom 0.5rem
   .card-story__meta
-    font-size 1mre
+    font-size 1rem
   .card-story__img
     max-width 20rem
     margin-right 1rem
