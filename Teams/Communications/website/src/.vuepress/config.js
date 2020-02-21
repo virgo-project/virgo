@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Virgo",
+  title: "Better coordination to solve the world's greatest challenges - Virgo",
   dest: "dist",
   head: [
     [
