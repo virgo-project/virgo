@@ -2,8 +2,9 @@
 #site
   site-header
   #page-stories
-    h1 Virgo Stories
-    p Welcome! Virgo Stories is a curated collection of articles written by the Virgo community. You can submit your article for inclusion on the #[a(href="https://forum.virgo.org") Virgo Forum].
+    .page-header
+      h1 Virgo Stories
+      p Welcome! Virgo Stories is a curated collection of articles written by the Virgo community. You can submit your article for inclusion on the #[a(href="https://forum.virgo.org") Virgo Forum].
     card-story(v-for="page in $pagination.pages" :page="page")
   #pagination
     router-link(v-if="$pagination.hasPrev" :to="$pagination.prevLink") Prev

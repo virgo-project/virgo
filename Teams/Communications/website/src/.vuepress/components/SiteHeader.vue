@@ -3,7 +3,7 @@
     <a id="site-logo" href="/">Virgo</a>
     <nav id="site-nav">
       <a href="/about/ABOUT.html">About Virgo</a>
-      <a href="/about">Our Manifesto</a>
+      <a href="/projects">Our Projects</a>
       <a href="/stories">Read Stories</a>
       <a href="/act">Take Action</a>
       <!--<a href="/about/BOARD">Board</a>-->
