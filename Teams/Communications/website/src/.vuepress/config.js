@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Virgo",
+  title: "Better coordination to solve the world's greatest challenges - Virgo",
   dest: "dist",
   head: [
     [
@@ -40,7 +40,7 @@ module.exports = {
       {
         directories: [
           {
-            id: "story", // Unique ID of current classification
+            id: "Stories", // Unique ID of current classification
             dirname: "_stories", // Target directory
             path: "/stories/", // Path of the blog
             layout: "Stories",

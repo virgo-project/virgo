@@ -13,6 +13,9 @@ body
 a
   text-decoration none
 
+p
+  margin 0 0 1.5rem
+
 h1,
 h2,
 h3,
@@ -57,6 +60,17 @@ h6
 #site-markdown, article.story
   img
     max-width 100%
-    margin 0 auto 1.5rem
+    margin 0 0 1.5rem
     display block
+  img[src$='#img-small']
+    float left
+    margin-right 1.5rem
+    max-width 9rem
+    margin-bottom 0.5rem
 
+.page-header
+  margin-bottom 1.5rem
+
+@media screen and (min-width: 768px)
+  .page-header
+    margin-bottom 3rem

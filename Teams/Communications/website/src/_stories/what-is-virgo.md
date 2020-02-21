@@ -1,8 +1,8 @@
 ---
-title: What is Virgo?
-author: Virgo Team
-bio: We're a decentralized collective of people around the world who care about the state of both humanity and the environment, and want to make the world a better place.
+author: virgo
+cover: what-is-virgo
 date: 2020-01-22
+title: What is Virgo?
 ---
 
 ![Hands holding Earth](./what-is-virgo.jpg)
