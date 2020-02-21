@@ -1,9 +1,9 @@
 <template lang="pug">
-  router-link.card-story(:to="page.path")
-    img.card-story__img(:src="coverImg")
-    .card-story__text
-      .card-story__title {{ page.title }}
-      .card-story__meta {{ timeAgo(page.frontmatter.date) }} ago by {{ author.name }}
+router-link.card-story(:to="page.path")
+  img.card-story__img(:src="coverImg")
+  .card-story__text
+    .card-story__title {{ page.title }}
+    .card-story__meta {{ timeAgo(page.frontmatter.date) }} ago by {{ author.name }}
 </template>
 
 <script>
