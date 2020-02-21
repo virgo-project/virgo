@@ -4,10 +4,10 @@
   #page-act
     .page-header
       h1 Take Action
-      p There are many ways you can make a difference. #[router-link(to="/about/ABOUT.html") Learn more.]
+      p Virgo is a decentralized movement comprised of forward-thinking individuals like you! There are many ways you can make a difference. Here are some:
 
-    h2 Chat
-    p We welcome all newcomers! Talk to us on #[a(href="https://discord.gg/Y7E5hwj" target="_blank" rel="noreferrer noopener") Discord] and come say hello! You can also join our #[a(href="https://forum.virgo.org" target="_blank" rel="noreferrer noopener") Forum] for longer-form discussions.
+    h2 Discuss
+    p We welcome all newcomers! Join our community on #[a(href="https://discord.gg/Y7E5hwj" target="_blank" rel="noreferrer noopener") Discord] and come say hello! You can also participate in #[a(href="https://forum.virgo.org" target="_blank" rel="noreferrer noopener") Virgo Forum] for insightful, longer-form discussions.
 
     h2 Volunteer
     p The world needs your help. We will always welcome volunteers and contributors. We are also accepting applications for full-time positions. View #[router-link(to="/about/ROLES.html") open roles].
