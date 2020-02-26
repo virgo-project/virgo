@@ -1,6 +1,7 @@
 <template lang="pug">
 router-link.card-story(:to="page.path")
-  img.card-story__img(:src="coverImg")
+  .card-story__img
+    img(:src="coverImg")
   .card-story__text
     .card-story__title {{ page.title }}
     .card-story__meta {{ timeAgo(page.frontmatter.date) }} ago by {{ author.name }}
@@ -43,6 +44,7 @@ export default {
     position absolute
     top 0
     left 0
+
 .card-story__title
   font-size 1.25rem
   font-weight bold
@@ -50,22 +52,33 @@ export default {
   line-height 1.25
   color var(--txt)
   margin-bottom 0.25rem
+
 .card-story__meta
   font-size 0.875rem
   color var(--dim)
-.card-story__img
+
+.card-story__img img
+  display block
   width 100%
-  max-width 40rem
+
 @media screen and (min-width: 768px)
   .card-story
     display flex
     padding-top 1.5rem
+    align-items flex-start
+
   .card-story__title
     font-size 1.5rem
     margin-bottom 0.5rem
   .card-story__meta
     font-size 1rem
+
+  .card-story__text
   .card-story__img
-    max-width 20rem
-    margin-right 1rem
+    flex 1
+
+  .card-story__img
+    padding-right 0.5rem
+  .card-story__text
+    padding-left 0.5rem
 </style>
