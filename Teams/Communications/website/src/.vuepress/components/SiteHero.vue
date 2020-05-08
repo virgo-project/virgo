@@ -26,9 +26,9 @@
         </video>
       </div>
       <div class="site-hero__text">
-        <h1>Better coordination to solve the world's challenges</h1>
+        <h1>Open collaboration tools for everyone.</h1>
         <p>
-          Virgo builds open collaboration tools for the everyone. Better
+          Virgo builds easy-to-use tools for decentralized collaboration. Better
           coordination will help us solve difficult challenges, such climate
           change, environmental destruction, and providing for basic human
           needs.
@@ -99,7 +99,7 @@ export default {
     content ""
     width 100vw
     height 100vh
-    background url('../images/matrix.png')
+    background url('../images/matrix-90.png')
     display block
     position absolute
     top 0
