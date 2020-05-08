@@ -109,6 +109,7 @@ export default {
 .vg-btns
   display flex
   flex-flow column nowrap
+  margin-top 2rem
 
 .vg-btn
   font-family var(--sans)
@@ -144,7 +145,6 @@ export default {
   #video-bg
     width auto
     height 100%
-
 
 @media screen and (min-width: 375px)
   .vg-btns
