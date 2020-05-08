@@ -4,7 +4,7 @@
   #page-projects
     .page-header
       h1 Virgo Projects
-      p Virgo is an ambitious new initiative to correct the course of humanity to a more resilient and sustainable future. Here are the pprimary projects that we're working on.
+      p Virgo is a decentralized network of people who are working on projects to improve the resilience of society. Here are the primary projects that we're working on.
 
     card-project
       div(slot="icon"): img(src="../../images/icons/anticollapse.png")

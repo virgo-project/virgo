@@ -26,12 +26,12 @@
         </video>
       </div>
       <div class="site-hero__text">
-        <h1>We are surrounded by fire.</h1>
+        <h1>Better coordination to solve the world's challenges</h1>
         <p>
-          And our governments aren't going to fix it.
-          <strong>But together, we can.</strong> Virgo gives everyone the tools
-          to coordinate and solve problems from local issues all the way to
-          global crises.
+          Virgo builds open collaboration tools for the everyone. Better
+          coordination will help us solve difficult challenges, such climate
+          change, environmental destruction, and providing for basic human
+          needs.
         </p>
         <div class="vg-btns">
           <a class="vg-btn vg-btn__primary" @click="video = true"
