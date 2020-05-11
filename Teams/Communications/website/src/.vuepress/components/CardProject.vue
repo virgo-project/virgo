@@ -3,7 +3,7 @@
   .card-project__icon
     slot(name="icon")
   .card-project__text
-    .card-project__title: slot(name="title")
+    h2.card-project__title: slot(name="title")
     .card-project__description: slot
 </template>
 
@@ -39,12 +39,4 @@ export default {
 
 .card-project__text
   flex 1
-
-.card-project__title
-  font-size 1.5rem
-  font-weight bold
-  font-family var(--sans)
-  line-height 1.25
-  color var(--txt)
-  margin-bottom 0.75rem
 </style>
