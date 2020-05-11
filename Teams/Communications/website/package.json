@@ -1,6 +1,6 @@
 {
   "name": "@virgo-project/website",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Virgo website.",
   "main": "index.js",
   "scripts": {
@@ -22,14 +22,14 @@
   },
   "homepage": "https://github.com/nylira/virgo#readme",
   "devDependencies": {
-    "@vuepress/plugin-blog": "^1.9.1",
-    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "@vuepress/plugin-blog": "^1.9.2",
+    "@vuepress/plugin-google-analytics": "^1.5.0",
     "copyfiles": "^2.1.1",
     "npx": "^10.2.0",
-    "vuepress": "^1.2.0"
+    "vuepress": "^1.5.0"
   },
   "dependencies": {
-    "@cosmos-ui/vue": "^0.5.19",
+    "@cosmos-ui/vue": "^0.23.0",
     "date-fns": "^2.9.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0"
