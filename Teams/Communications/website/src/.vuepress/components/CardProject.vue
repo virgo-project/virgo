@@ -44,7 +44,6 @@ export default {
   font-size 1.5rem
   font-weight bold
   font-family var(--sans)
-  letter-spacing -0.07em
   line-height 1.25
   color var(--txt)
   margin-bottom 0.75rem

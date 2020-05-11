@@ -38,13 +38,7 @@
             >Watch video
             <img src="../images/feather/white/play.svg" />
           </a>
-          <a
-            class="vg-btn"
-            href="/act"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Take action</a
-          >
+          <a class="vg-btn" href="/act">Take action</a>
         </div>
       </div>
     </div>
