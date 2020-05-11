@@ -10,7 +10,7 @@
           rel="noreferrer noopener"
           href="https://www.facebook.com/VirgoUDV"
         >
-          <img src="../images/feather/white/facebook.svg" />
+          <icon-facebook />
           <div class="label">Facebook</div>
         </a>
         <a
@@ -18,7 +18,7 @@
           rel="noreferrer noopener"
           href="https://twitter.com/VirgoUDV"
         >
-          <img src="../images/feather/white/twitter.svg" />
+          <icon-twitter />
           <div class="label">Twitter</div>
         </a>
         <a
@@ -26,7 +26,7 @@
           rel="noreferrer noopener"
           href="https://www.instagram.com/virgoudv/"
         >
-          <img src="../images/feather/white/instagram.svg" />
+          <icon-instagram />
           <div class="label">Instagram</div>
         </a>
         <a
@@ -34,7 +34,7 @@
           rel="noreferrer noopener"
           href="https://www.youtube.com/channel/UCRxqMDaQ7JKy2TeZflextkw/"
         >
-          <img src="../images/feather/white/youtube.svg" />
+          <icon-youtube />
           <div class="label">YouTube</div>
         </a>
         <a
@@ -42,7 +42,7 @@
           rel="noreferrer noopener"
           href="https://github.com/virgo-project"
         >
-          <img src="../images/feather/white/github.svg" />
+          <icon-github />
           <div class="label">GitHub</div>
         </a>
         <a
@@ -50,7 +50,7 @@
           rel="noreferrer noopener"
           href="https://forum.virgo.org"
         >
-          <img src="../images/feather/white/discourse.svg" />
+          <icon-forum />
           <div class="label">Discourse</div>
         </a>
       </div>
@@ -61,10 +61,22 @@
 
 <script>
 import FormEmail from "./FormEmail";
+import IconFacebook from "../icons/logo-facebook";
+import IconGithub from "../icons/logo-github";
+import IconInstagram from "../icons/logo-instagram";
+import IconTwitter from "../icons/logo-twitter";
+import IconYoutube from "../icons/logo-youtube";
+import IconForum from "../icons/f-comment";
 export default {
   name: "site-footer",
   components: {
-    FormEmail
+    FormEmail,
+    IconFacebook,
+    IconGithub,
+    IconInstagram,
+    IconTwitter,
+    IconYoutube,
+    IconForum
   }
 };
 </script>
