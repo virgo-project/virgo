@@ -26,25 +26,19 @@
         </video>
       </div>
       <div class="site-hero__text">
-        <h1>We are surrounded by fire.</h1>
+        <h1>Open collaboration tools for everyone.</h1>
         <p>
-          And our governments aren't going to fix it.
-          <strong>But together, we can.</strong> Virgo gives everyone the tools
-          to coordinate and solve problems from local issues all the way to
-          global crises.
+          Virgo builds easy-to-use tools for decentralized collaboration. Better
+          coordination will help us solve difficult challenges, such climate
+          change, environmental destruction, and providing for basic human
+          needs.
         </p>
         <div class="vg-btns">
           <a class="vg-btn vg-btn__primary" @click="video = true"
             >Watch video
             <img src="../images/feather/white/play.svg" />
           </a>
-          <a
-            class="vg-btn"
-            href="/act"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Take action</a
-          >
+          <a class="vg-btn" href="/act">Take action</a>
         </div>
       </div>
     </div>
@@ -99,7 +93,7 @@ export default {
     content ""
     width 100vw
     height 100vh
-    background url('../images/matrix.png')
+    background url('../images/matrix-90.png')
     display block
     position absolute
     top 0
@@ -109,6 +103,7 @@ export default {
 .vg-btns
   display flex
   flex-flow column nowrap
+  margin-top 2rem
 
 .vg-btn
   font-family var(--sans)
@@ -144,7 +139,6 @@ export default {
   #video-bg
     width auto
     height 100%
-
 
 @media screen and (min-width: 375px)
   .vg-btns
