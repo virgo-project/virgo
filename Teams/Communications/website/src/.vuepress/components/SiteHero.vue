@@ -36,9 +36,12 @@
         <div class="vg-btns">
           <a class="vg-btn vg-btn__primary" @click="video = true"
             >Watch video
-            <img src="../images/feather/white/play.svg" />
+            <icon-play />
           </a>
-          <a class="vg-btn" href="/act">Take action</a>
+          <a class="vg-btn" href="/act">
+            Take action
+            <icon-check />
+          </a>
         </div>
       </div>
     </div>
@@ -46,9 +49,13 @@
 </template>
 
 <script>
+import IconPlay from "../icons/frame-c-caret-right";
+import IconCheck from "../icons/f-check";
 import { Modal, CookieBanner } from "@cosmos-ui/vue";
 export default {
   components: {
+    IconCheck,
+    IconPlay,
     Modal,
     CookieBanner
   },
@@ -121,7 +128,7 @@ export default {
   justify-content center
   &:hover
     opacity 0.85
-  img
+  svg
     margin-left 0.5rem
 
 .vg-btn__primary
