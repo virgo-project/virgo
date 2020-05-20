@@ -1,21 +1,26 @@
 <template>
   <div>
     <modal
-      :visible="video"
-      @input="video = null"
-      button="dark"
-      overlay="rgba(0,0,0,.8)"
+      v-bind="{
+        visible: !!video,
+        side: 'center',
+        buttonClose: true,
+        fullscreen: true,
+        width: '900px',
+        backgroundColor: 'rgba(0,0,0,.8)'
+      }"
+      @visible="video = $event"
+      v-if="!!video"
     >
-      <div class="modal__content">
+      <div class="modal__content" v-if="!!video">
         <iframe
           width="100%"
-          height="504"
-          src="https://www.youtube.com/embed/Fdwe5dtCb7Y?autoplay=1&controls=1&rel=0&modestbranding=1&fs=1"
+          height="510"
+          src="https://www.youtube.com/embed/cD57_QKToa8?autoplay=1&amp;controls=1&amp;rel=0&amp;modestbranding=1&amp;fs=1"
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        >
-        </iframe>
+          allowfullscreen="allowfullscreen"
+        ></iframe>
       </div>
     </modal>
     <div id="site-hero">
