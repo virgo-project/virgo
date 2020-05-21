@@ -33,10 +33,10 @@
       <div class="site-hero__text">
         <h1>Open collaboration tools for everyone.</h1>
         <p>
-          Virgo builds easy-to-use tools for decentralized collaboration. Better
-          coordination will help us solve difficult challenges, such climate
-          change, environmental destruction, and providing for basic human
-          needs.
+          Virgo recommends easy-to-use tools for decentralized collaboration.
+          Better coordination will help us solve difficult challenges, such
+          climate change, environmental destruction, and providing for basic
+          human needs.
         </p>
         <div class="vg-btns">
           <a class="vg-btn vg-btn__primary" @click="video = true"
