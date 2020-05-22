@@ -4,7 +4,7 @@
   #page-ecosystem
     .page-header
       h1 Virgo Ecosystem
-      p Virgo is a decentralized ecosystem of projects that work on improve the resilience of society and solving world problems. These projects work together to realize the Virgo vision.
+      p Virgo recommends projects that work on improve the resilience of society and solving world problems. Here are some of the projects within this ecosystem.
 
     // card-project
       div(slot="icon"): img(src="../../images/icons/anticollapse.png")
