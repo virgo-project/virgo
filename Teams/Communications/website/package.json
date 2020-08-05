@@ -1,0 +1,41 @@
+{
+  "name": "@virgo-project/website",
+  "version": "0.0.2",
+  "description": "The Virgo website.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vuepress dev src --no-cache",
+    "buildsite": "vuepress build src",
+    "copyindex": "cd ../../../ && npx copyfiles -f *.md Teams/Communications/website/src/about",
+    "copyresearch": "cd ../../../ && npx copyfiles -f research/*.md Teams/Communications/website/src/research",
+    "copy": "npm run copyindex && npm run copyresearch",
+    "build": "npm run copy && npm run buildsite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nylira/virgo.git"
+  },
+  "author": "Peng Zhong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nylira/virgo/issues"
+  },
+  "homepage": "https://github.com/nylira/virgo#readme",
+  "devDependencies": {
+<<<<<<< HEAD:website/package.json
+    "@vuepress/plugin-google-analytics": "^1.4.0",
+=======
+    "@vuepress/plugin-blog": "^1.9.2",
+    "@vuepress/plugin-google-analytics": "^1.5.0",
+>>>>>>> upstream/master:Teams/Communications/website/package.json
+    "copyfiles": "^2.1.1",
+    "npx": "^10.2.0",
+    "vuepress": "^1.5.0"
+  },
+  "dependencies": {
+    "@cosmos-ui/vue": "^0.23.0",
+    "date-fns": "^2.9.0",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0"
+  }
+}

@@ -6,7 +6,7 @@ The Virgo vision is to provide the world with the best open collaboration
 technology. Virgo aims to use this new foundation to help solve the world's
 greatest challenges, such as preventing catastrophic climate change and
 environmental destruction, and providing for the basic human needs of members
-across the globe.
+across the globe. Read the [Virgo manifesto](README.md).
 
 ## Mission
 
@@ -30,3 +30,4 @@ Virgo will develop and recommend:
 - Environmentalism
 - Democracy
 - Security
+
