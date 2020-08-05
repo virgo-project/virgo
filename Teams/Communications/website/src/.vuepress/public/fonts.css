@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Metropolis';
+  src: url('/fonts/metropolis-extralight.woff2') format('woff2');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('/fonts/metropolis-regular.woff2') format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('/fonts/metropolis-semibold.woff2') format('woff2');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('/fonts/metropolis-bold.woff2') format('woff2');
+  font-weight: 700;
+}

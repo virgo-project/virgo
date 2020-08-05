@@ -22,12 +22,8 @@
   },
   "homepage": "https://github.com/nylira/virgo#readme",
   "devDependencies": {
-<<<<<<< HEAD:website/package.json
-    "@vuepress/plugin-google-analytics": "^1.4.0",
-=======
     "@vuepress/plugin-blog": "^1.9.2",
     "@vuepress/plugin-google-analytics": "^1.5.0",
->>>>>>> upstream/master:Teams/Communications/website/package.json
     "copyfiles": "^2.1.1",
     "npx": "^10.2.0",
     "vuepress": "^1.5.0"
