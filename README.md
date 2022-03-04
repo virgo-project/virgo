@@ -1,3 +1,5 @@
+UPDATE: Virgo is on pause while github.com/gnolang/gno becomes complete.
+
 # Virgo Manifesto
 
 We are surrounded by fire.
