@@ -29,7 +29,7 @@
     "vuepress": "^1.5.0"
   },
   "dependencies": {
-    "@cosmos-ui/vue": "^0.23.0",
+    "@cosmos-ui/vue": "^0.36.3",
     "date-fns": "^2.9.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0"
